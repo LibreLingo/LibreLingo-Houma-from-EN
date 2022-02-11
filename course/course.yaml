@@ -1,0 +1,31 @@
+# This file contains generic meta-data about the course
+
+Course:
+  Language:
+    Name: Houma
+    IETF BCP 47: Houma
+  For speakers of:
+    Name: English
+    IETF BCP 47: en
+  License:
+    Name: Attribution-NonCommercial 4.0 International
+    Short name: CC BY-NC 4.0
+    Link: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+  Repository: https://github.com/kantord/LibreLingo/tree/main/courses/houma-from-english
+  Special characters:
+    - "á"
+    - "ã"
+    - "é"
+    - "ẽ"
+    - "í"
+    - "ĩ"
+    - "ú"
+    - "ũ"
+    _ "^"
+
+Modules:
+  - 01-Greetings/
+  - 02-Animals/
+
+Settings:
+    - disable audio files
