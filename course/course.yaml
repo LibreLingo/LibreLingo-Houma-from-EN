@@ -14,14 +14,22 @@ Course:
   Repository: https://github.com/kantord/LibreLingo/tree/main/courses/houma-from-english
   Special characters:
     - "á"
+    - "Á"
     - "ã"
+    - "Ã"
     - "é"
+    - "É"
     - "ẽ"
+    - "Ẽ"
     - "í"
+    - "Í"
     - "ĩ"
+    - "Ĩ"
     - "ú"
+    - "Ú"
     - "ũ"
-    _ "^"
+    - "Ũ"
+    - "^"
 
 Modules:
   - 01-Greetings/
