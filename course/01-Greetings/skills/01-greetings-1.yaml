@@ -1,0 +1,146 @@
+Skill:
+  Id: 11
+  Name: Greetings 1
+  Thumbnails:
+
+
+New words:
+  - Word: Aletu
+    Translation: Hello
+
+  - Word: Tcematcúkumáhũ?
+    Translation: Are you good?
+    Also accepted:
+      - How are you?
+
+  - Word: Ã
+    Translation: yes
+
+  - Word: keyu
+    Translation: no
+
+  - Word: Amatcúkumah.
+    Translation: I am good.
+    Also accepted:
+      - I'm good.
+
+  - Word: atcúkumah
+    Translation: to be good
+    Also accepted:
+      - it is good
+      - he is good
+      - she is good
+      - they are good
+
+  - Word: ámẽteleh
+    Translation: I come from
+    Also accepted:
+      - I am from
+
+  - Word: Yakuke
+    Translation: Thank you
+    Also accepted:
+      - Thanks
+
+  - Word: Ume
+    Translation: You're welcome
+    Also accepted:
+      - ok
+      - okay
+      - no problem
+      
+  - Word: Balbãsa'
+    Translation: New Orleans
+    Also accepted:
+      - Balbancha
+      - Bulbancha
+   
+  - Word: katemmah
+    Translation: where
+    
+  - Word: esámẽteh
+    Translation: you come from
+    Also accepted:
+      - you are from
+
+Phrases:
+  - Phrase: Aletu, tcematcúkumáhũ?
+    Translation: Hello, are you doing well?
+    Alternative translations:
+      - Hello, are you good?
+      - Hello, how are you?
+
+  - Phrase: Ã, amatcúkumah.
+    Translation: Yes, I am doing well.
+    Alternative translations:
+      - Yes, I'm doing well.
+      - Yes, I am good.
+      - Yes, I'm good.
+      
+  - Phrase: Katemmah esámẽteh?
+    Translation: Where do you come from?
+    Alternative translations:
+      - Where are you from?
+
+  - Phrase: Balbãsa' ámẽteleh.
+    Translation: I come from New Orleans.
+    Alternative translations:
+      - I am from New Orleans.
+      - I come from Balbancha.
+      - I am from Balbancha.
+      - I come from Bulbancha.
+      - I am from Bulbancha.
+
+Mini-dictionary:
+  Uma:
+    - ámẽteleh:
+        - I come from
+        - I am from
+        - I'm from
+    - esámẽteh:
+        - you come from
+        - you are from
+        - you're from
+    - Balbãsa:
+        - New Orleans
+        - Balbancha
+        - Bulbancha
+    - ã: yes
+    - keyu: no
+    - atcúkumah:
+        - to be good
+        - to be doing well
+        - be good
+        - be doing well
+        - he is good
+        - he is doing well
+        - she is good
+        - she is doing well
+        - they are good
+        - they are doing well
+        - it is good
+        - it is doing well
+    - amatcúkumah:
+        - I am doing well
+        - I am good
+    - tcematcúkumahũ:
+        - are you doing well
+        - are you good
+    - katemmah: where
+    - aletu: hello
+    - yakuke:
+        - thank you
+        - thanks
+
+  English:
+    - I come from: ámẽteleh
+    - you come from: esámẽteh
+    - New Orleans: Balbãsa'
+    - yes: ã
+    - no: keyu
+    - to be good: atcúkumah
+    - I am doing well: amatcúkumah
+    - are you doing well: tcematcúkumahũ
+    - where: katemmah
+    - hello: aletu
+    - thank you: yakuke
