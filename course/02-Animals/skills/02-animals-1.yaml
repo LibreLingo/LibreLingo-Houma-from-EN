@@ -1,0 +1,119 @@
+Skill:
+  Id: 21
+  Name: Animals 1
+  Thumbnails:
+
+New words:
+
+  - Word: lukse'
+    Translation: turtle
+    Images:
+      - turtle1
+      - turtle2
+      - turtle3
+
+  - Word: upa'
+    Translation: owl
+    Images:
+      - owl1
+      - owl2
+      - owl3
+
+  - Word: katus
+    Translation: cat
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: pakét
+    Translation: turkey
+    Images:
+      - turkey1
+      - turkey2
+      - turkey3
+
+  - Word: saktce'
+    Translation: crawfish
+    Images:
+      - crawfish1
+      - crawfish2
+      - crawfish3
+
+  - Word: ufe'
+    Translation: dog
+    Images:
+      - dog1
+      - dog2
+      - dog3
+      
+  - Word: elappat
+    Translation: this
+    
+  - Word: yammat
+    Translation: that
+    
+  - Word: nãtah
+    Translation: what is
+
+Phrases:
+  - Phrase: Elappat nãtah?
+    Translation: What is this?
+    Alternative translations:
+      - What are these?
+
+  - Phrase: Yammat nãtah?
+    Translation: What is that?
+    Alternative translations:
+      - What are those?
+
+  - Phrase: Elappat lukse'.
+    Translation: This is a turtle.
+    Alternative translations:
+      - These are turtles.
+
+  - Phrase: Yammat saktce'.
+    Translation: That is a crawfish.
+    Alternative translations:
+      - Those are crawfish.
+
+  - Phrase: Elappat upa'.
+    Translation: That is a crawfish.
+    Alternative translations:
+      - Those are crawfish.
+
+  - Phrase: Yammat ufe'.
+    Translation: That is a dog.
+    Alternative translations:
+      - Those are dogs.
+
+
+Mini-dictionary:
+  Houma:
+    - lukse': turtle 
+    - upa': owl
+    - katus: cat
+    - pakét: turkey
+    - saktce': crawfish
+    - ufe': dog
+    - elappat:
+      - this
+      - these
+    - yammat: 
+      - that
+      - those
+    - nãtah:
+      - what is
+      - what are
+      
+
+  English:
+    - turtle: lukse'
+    - owl: upa'
+    - cat: katus
+    - turkey: pakét
+    - crawfish: saktce'
+    - dog: ufe'
+    - this: elappat
+    - that: yammat
+    - what is: nãtah
