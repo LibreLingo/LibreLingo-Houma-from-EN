@@ -1,0 +1,80 @@
+Skill:
+  Id: 12
+  Name: Greetings 2
+  Thumbnails:
+
+
+New words:
+  - Word: ulhtcefu'
+    Translation: name
+
+  - Word: seyulhtcefu'
+    Translation: my name
+
+  - Word: tceyulhtcefu'
+    Translation: your name
+
+  - Word: naNtah
+    Translation: what is
+
+  
+Phrases:
+  - Phrase: Tceyulhtcefuyat naNtah?
+    Translation: What is your name?
+    Alternative translations:
+      
+
+
+Mini-dictionary:
+  Uma:
+    - ámẽteleh:
+        - I come from
+        - I am from
+        - I'm from
+    - esámẽteh:
+        - you come from
+        - you are from
+        - you're from
+    - Balbãsa:
+        - New Orleans
+        - Balbancha
+        - Bulbancha
+    - ã: yes
+    - keyu: no
+    - atcúkumah:
+        - to be good
+        - to be doing well
+        - be good
+        - be doing well
+        - he is good
+        - he is doing well
+        - she is good
+        - she is doing well
+        - they are good
+        - they are doing well
+        - it is good
+        - it is doing well
+    - amatcúkumah:
+        - I am doing well
+        - I am good
+    - tcematcúkumahũ:
+        - are you doing well
+        - are you good
+    - katemmah: where
+    - aletu: hello
+    - yakuke:
+        - thank you
+        - thanks
+
+  English:
+    - I come from: ámẽteleh
+    - you come from: esámẽteh
+    - New Orleans: Balbãsa'
+    - yes: ã
+    - no: keyu
+    - to be good: atcúkumah
+    - I am doing well: amatcúkumah
+    - are you doing well: tcematcúkumahũ
+    - where: katemmah
+    - hello: aletu
+    - thank you: yakuke
