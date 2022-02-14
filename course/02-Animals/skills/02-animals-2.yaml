@@ -1,0 +1,127 @@
+Skill:
+  Id: 22
+  Name: Animals 2
+  Thumbnails:
+
+New words:
+
+  - Word: tcukfe'
+    Translation: turtle
+    Images:
+      - rabbit1
+      - rabbit2
+      - rabbit3
+
+  - Word: sawe'
+    Translation: raccoon
+    Images:
+      - raccoon1
+      - raccoon2
+      - raccoon3
+
+  - Word: úse'
+    Translation: bird
+    Images:
+      - bird1
+      - bird2
+      - bird3
+
+  - Word: pakételu'
+    Translation: chicken
+    Images:
+      - chicken1
+      - chicken2
+      - chicken3
+
+  - Word: sãte'
+    Translation: snake
+    Images:
+      - snake1
+      - snake2
+      - snake3
+
+  - Word: nani'
+    Translation: fish
+    Images:
+      - fish1
+      - fish2
+      - fish3
+      
+  - Word: tcetuh
+    Translation: to be big
+    Also accepted:
+      - it is big
+      - he is big
+      - she is big
+      - they are big
+    
+  - Word: useh
+    Translation: to be small
+    Also accepted:
+      - it is small
+      - he is small
+      - she is small
+      - they are small
+
+Phrases:
+  - Phrase: Sãteyat useh.
+    Translation: The snake is small.
+    Alternative translations:
+      - The snakes are small.
+
+  - Phrase: Sãte' elappat useh.
+    Translation: This snake is small.
+    Alternative translations:
+      - These snakes are small
+
+  - Phrase: Sãte' yammat tcetuh.
+    Translation: That snake is big.
+    Alternative translations:
+      - Those snakes are big.
+
+  - Phrase: Naniyat tcetuh.
+    Translation: The fish is big.
+    Alternative translations:
+      - The fish are big.
+
+  - Phrase: Úseyat useh
+    Translation: The bird is big.
+    Alternative translations:
+      - The birds are big
+
+  - Phrase: Tcukfe' elappat tcetuh.
+    Translation: This rabbit is big.
+    Alternative translations:
+      - These rabbits are big.
+      
+  - Phrase: Sawe' yammat useh.
+    Translation: That raccoon is small.
+    Alternative translations:
+      - Those raccoons are small.
+
+
+Mini-dictionary:
+  Houma:
+    - lukse': turtle 
+    - upa': owl
+    - katus: cat
+    - pakét: turkey
+    - saktce': crawfish
+    - ufe': dog
+    - elappat:
+      - this
+      - these
+    - yammat: 
+      - that
+      - those
+      
+
+  English:
+    - turtle: lukse'
+    - owl: upa'
+    - cat: katus
+    - turkey: pakét
+    - crawfish: saktce'
+    - dog: ufe'
+    - this: elappat
+    - that: yammat
