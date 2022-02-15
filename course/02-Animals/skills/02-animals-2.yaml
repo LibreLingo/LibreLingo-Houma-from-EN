@@ -102,26 +102,32 @@ Phrases:
 
 Mini-dictionary:
   Houma:
-    - lukse': turtle 
-    - upa': owl
-    - katus: cat
-    - pakét: turkey
-    - saktce': crawfish
-    - ufe': dog
-    - elappat:
-      - this
-      - these
-    - yammat: 
-      - that
-      - those
+    - tcukfe': rabbit 
+    - sawe': raccoon
+    - úse: bird
+    - pakételu': chicken
+    - sãte': snake
+    - nani': fish
+    - tcetuh:
+      - to be big
+      - he is big
+      - it is big
+      - she is big
+      - they are big
+    - useh: 
+      - to be small
+      - he is small
+      - she is small
+      - it is small
+      - they are small
       
 
   English:
-    - turtle: lukse'
-    - owl: upa'
-    - cat: katus
-    - turkey: pakét
-    - crawfish: saktce'
-    - dog: ufe'
-    - this: elappat
-    - that: yammat
+    - rabbit: tcukfe'
+    - raccoon: sawe'
+    - bird: úse'
+    - chicken: pakételu'
+    - snake: sãte'
+    - fish: nani'
+    - to be big: tcetuh
+    - to be small: useh
