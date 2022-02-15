@@ -93,6 +93,9 @@ Phrases:
 
 Mini-dictionary:
   Houma:
+    - á:
+        - from
+        - at
     - a:
         - be
         - am
@@ -102,6 +105,12 @@ Mini-dictionary:
         - I come from
         - I am from
         - I'm from
+    - anatu:
+        - I
+        - as for me
+    -tcesnatu:
+        - you
+        - as for you
     - esámẽteh:
         - you come from
         - you are from
@@ -136,13 +145,23 @@ Mini-dictionary:
     - yakuke:
         - thank you
         - thanks
+    - mẽteh:
+        - come
+        - he comes
+        - she comes
+        - it comes
+        - they come
 
   English:
     - be: a
     - are: a
     - is: a
     - am: a
+    - from: á
     - I come from: ámẽteleh
+    - I: anatu
+    - you: tcesnatu
+    - come: mẽteh
     - you come from: esámẽteh
     - New Orleans: Balbãsa'
     - yes: ã
