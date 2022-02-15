@@ -93,6 +93,11 @@ Phrases:
 
 Mini-dictionary:
   Houma:
+    - a:
+        - be
+        - am
+        - are
+        - is
     - ámẽteleh:
         - I come from
         - I am from
@@ -133,6 +138,7 @@ Mini-dictionary:
         - thanks
 
   English:
+    - be: a
     - I come from: ámẽteleh
     - you come from: esámẽteh
     - New Orleans: Balbãsa'
