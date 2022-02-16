@@ -55,50 +55,67 @@ New words:
 
 Phrases:
   - Phrase: Elappat nãtah?
-    Translation: What is this?
+    Translation: "{What is} this?"
     Alternative translations:
-      - What are these?
+      - "{What are} these?"
 
   - Phrase: Yammat nãtah?
-    Translation: What is that?
+    Translation: "{What is} that?"
     Alternative translations:
-      - What are those?
+      - "{What are} those?"
 
   - Phrase: Elappat lukse'.
-    Translation: This is a turtle.
+    Translation: "{This is} {a turtle}."
     Alternative translations:
-      - These are turtles.
+      - "{These are} turtles."
 
   - Phrase: Yammat saktce'.
-    Translation: That is a crawfish.
+    Translation: "{That is} {a crawfish}."
     Alternative translations:
-      - Those are crawfish.
+      - "{Those are} crawfish."
 
   - Phrase: Elappat upa'.
-    Translation: This is an owl.
+    Translation: "{This is} {an owl}."
     Alternative translations:
-      - This is an owl.
+      - "{This is} {an owl}.
 
   - Phrase: Yammat ufe'.
-    Translation: That is a dog.
+    Translation: "{That is} {a dog}".
     Alternative translations:
-      - Those are dogs.
+      - "{Those are} dogs."
 
 
 Mini-dictionary:
   Houma:
-    - lukse': turtle 
+    - lukse':
+      - turtle 
+      - a turtle
+      - turtles
     - upa': owl
-    - katus: cat
+      - an owl
+      - owls
+    - katus:
+      - a cat
+      - cats
     - pakét: turkey
-    - saktce': crawfish
-    - ufe': dog
+      - a turkey
+      - turkeys
+    - saktce':
+      - crawfish
+      - a crawfish
+    - ufe':
+      - a dog
+      - dogs
     - elappat:
       - this
+      - this is
       - these
+      - these are
     - yammat: 
       - that
+      - that is
       - those
+      - those are
       
 
   English:
@@ -108,5 +125,5 @@ Mini-dictionary:
     - turkey: pakét
     - crawfish: saktce'
     - dog: ufe'
-    - this: elappat
-    - that: yammat
+    - this is: elappat
+    - that is: yammat
