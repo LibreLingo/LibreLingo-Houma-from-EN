@@ -14,64 +14,38 @@ New words:
   - Word: tceyulhtcefu'
     Translation: your name
 
-  - Word: naNtah
+  - Word: nãtah
     Translation: what is
 
   
 Phrases:
-  - Phrase: Tceyulhtcefuyat naNtah?
-    Translation: What is your name?
+  - Phrase: Tceyulhtcefuyat nãtah?
+    Translation: {What is} {your name}?
+
+Phrases:
+  - Phrase: Seyulhtcefuyat Sammy.
+    Translation: "{My name is} Sammy."
+
 
 Mini-dictionary:
   Houma:
-    - ámẽteleh:
-        - I come from
-        - I am from
-        - I'm from
-    - esámẽteh:
-        - you come from
-        - you are from
-        - you're from
-    - Balbãsa:
-        - New Orleans
-        - Balbancha
-        - Bulbancha
-    - ã: yes
-    - keyu: no
-    - atcúkumah:
-        - to be good
-        - to be doing well
-        - be good
-        - be doing well
-        - he is good
-        - he is doing well
-        - she is good
-        - she is doing well
-        - they are good
-        - they are doing well
-        - it is good
-        - it is doing well
-    - amatcúkumah:
-        - I am doing well
-        - I am good
-    - tcematcúkumahũ:
-        - are you doing well
-        - are you good
-    - katemmah: where
-    - aletu: hello
-    - yakuke:
-        - thank you
-        - thanks
+    - ulhtcefu':
+      - name
+      - his name
+      - its name
+      - her name
+      - their name
+    - nãtah:
+      - what
+      - what is
+    - seyulhtcefuyat: my name is
+    - tceyulhtcefuyat:
+      - your name
+      - your name is
+    Sammy: Sammy
 
   English:
-    - I come from: ámẽteleh
-    - you come from: esámẽteh
-    - New Orleans: Balbãsa'
-    - yes: ã
-    - no: keyu
-    - to be good: atcúkumah
-    - I am doing well: amatcúkumah
-    - are you doing well: tcematcúkumahũ
-    - where: katemmah
-    - hello: aletu
-    - thank you: yakuke
+    - my name is: seyulhtcefuyat
+    - your name: tceyulhtcefuyat
+    - what is: nãtah
+    - Sammy: Sammy
