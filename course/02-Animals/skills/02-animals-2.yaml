@@ -65,57 +65,65 @@ New words:
 
 Phrases:
   - Phrase: Sãteyat useh.
-    Translation: The snake is small.
+    Translation: "{The snake} {is small}."
     Alternative translations:
-      - The snakes are small.
+      - "{The snakes} {are small}."
 
   - Phrase: Sãte' elappat useh.
-    Translation: This snake is small.
+    Translation: "{This snake} {is small}."
     Alternative translations:
-      - These snakes are small
+      - "{These snakes} {are small}."
 
   - Phrase: Sãte' yammat tcetuh.
-    Translation: That snake is big.
+    Translation: "{That snake} {is big}."
     Alternative translations:
-      - Those snakes are big.
+      - "{Those snakes} {are big}."
 
   - Phrase: Naniyat tcetuh.
-    Translation: The fish is big.
+    Translation: "{The fish} {is big}."
     Alternative translations:
-      - The fish are big.
+      - "{The fish} {are big}."
 
   - Phrase: Úseyat useh
-    Translation: The bird is big.
+    Translation: "{The bird} {is big}."
     Alternative translations:
-      - The birds are big
+      - "{The birds} {are big}."
 
   - Phrase: Tcukfe' elappat tcetuh.
-    Translation: This rabbit is big.
+    Translation: "{This rabbit} {is big}."
     Alternative translations:
-      - These rabbits are big.
+      - "{These rabbits} {are big}."
       
   - Phrase: Sawe' yammat useh.
-    Translation: That raccoon is small.
+    Translation: "{That raccoon} {is small}."
     Alternative translations:
-      - Those raccoons are small.
+      - "{Those raccoons} {are small}."
 
 
 Mini-dictionary:
   Houma:
     - tcukfe': rabbit 
+    - tcukfeyat: the rabbit
     - sawe': raccoon
+    - saweyat: the raccoon
     - úse: bird
+    - úseyat: the bird
     - pakételu': chicken
+    - pakételuyat: the chicken
     - sãte': snake
+    - sãteyat: the snake
     - nani': fish
+    - naniyat: the fish
     - tcetuh:
-      - to be big
+      - is big
+      - are big
       - he is big
       - it is big
       - she is big
       - they are big
     - useh: 
-      - to be small
+      - is small
+      - are small
       - he is small
       - she is small
       - it is small
