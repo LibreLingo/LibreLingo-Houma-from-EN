@@ -65,25 +65,25 @@ New words:
 
 Phrases:
   - Phrase: Aletu, tcematcúkumáhũ?
-    Translation: Hello, are you doing well?
+    Translation: "Hello, {are you doing well}?"
     Alternative translations:
       - Hello, are you good?
       - Hello, how are you?
 
   - Phrase: Ã, amatcúkumah.
-    Translation: Yes, I am doing well.
+    Translation: "Yes, {I am doing well}."
     Alternative translations:
       - Yes, I'm doing well.
       - Yes, I am good.
       - Yes, I'm good.
       
   - Phrase: Katemmah esámẽteh?
-    Translation: Where do you come from?
+    Translation: "{Where do} {you come from}?"
     Alternative translations:
       - Where are you from?
 
   - Phrase: Balbãsa' ámẽteleh.
-    Translation: I come from New Orleans.
+    Translation: "{I come from} {New Orleans}."
     Alternative translations:
       - I am from New Orleans.
       - I come from Balbancha.
@@ -140,7 +140,9 @@ Mini-dictionary:
     - tcematcúkumahũ:
         - are you doing well
         - are you good
-    - katemmah: where
+    - katemmah:
+        - where
+        - where do
     - aletu: hello
     - yakuke:
         - thank you
@@ -170,5 +172,6 @@ Mini-dictionary:
     - I am doing well: amatcúkumah
     - are you doing well: tcematcúkumahũ
     - where: katemmah
+    - where do: katemmah
     - hello: aletu
     - thank you: yakuke
