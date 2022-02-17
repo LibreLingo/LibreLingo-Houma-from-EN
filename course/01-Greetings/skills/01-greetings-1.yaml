@@ -8,8 +8,8 @@ New words:
   - Word: Aletu
     Translation: Hello
 
-  - Word: Tcematcúkumáhũ?
-    Translation: Are you good
+  - Word: tcematcúkumáhũ
+    Translation: "{are you good}"
     Also accepted:
       - How are you
 
@@ -19,13 +19,13 @@ New words:
   - Word: keyu
     Translation: no
 
-  - Word: Amatcúkumah.
-    Translation: I am good
+  - Word: amatcúkumah
+    Translation: "{I am good}"
     Also accepted:
       - I'm good
 
   - Word: atcúkumah
-    Translation: to be good
+    Translation: "{to be good}"
     Also accepted:
       - it is good
       - he is good
@@ -33,24 +33,24 @@ New words:
       - they are good
 
   - Word: ámẽteleh
-    Translation: I come from
+    Translation: "{I come from}"
     Also accepted:
       - I am from
 
-  - Word: Yakuke
-    Translation: Thank you
+  - Word: yakuke
+    Translation: "{thank you}"
     Also accepted:
       - Thanks
 
-  - Word: Ume
-    Translation: You're welcome
+  - Word: ume
+    Translation: "{you're welcome}"
     Also accepted:
       - ok
       - okay
       - no problem
       
   - Word: Balbãsa'
-    Translation: New Orleans
+    Translation: "{New Orleans}"
     Also accepted:
       - Balbancha
       - Bulbancha
@@ -59,7 +59,7 @@ New words:
     Translation: where
     
   - Word: esámẽteh
-    Translation: you come from
+    Translation: "{you come from}"
     Also accepted:
       - you are from
 
