@@ -9,9 +9,9 @@ New words:
     Translation: Hello
 
   - Word: Tcematcúkumáhũ?
-    Translation: Are you good?
+    Translation: Are you good
     Also accepted:
-      - How are you?
+      - How are you
 
   - Word: Ã
     Translation: yes
@@ -20,9 +20,9 @@ New words:
     Translation: no
 
   - Word: Amatcúkumah.
-    Translation: I am good.
+    Translation: I am good
     Also accepted:
-      - I'm good.
+      - I'm good
 
   - Word: atcúkumah
     Translation: to be good
@@ -65,52 +65,38 @@ New words:
 
 Phrases:
   - Phrase: Aletu, tcematcúkumáhũ?
-    Translation: "Hello, {are you doing well}?"
+    Translation: "Hello, {are you doing well}"
     Alternative translations:
-      - Hello, are you good?
-      - Hello, how are you?
+      - Hello, are you good
+      - Hello, how are you
 
   - Phrase: Ã, amatcúkumah.
-    Translation: "Yes, {I am doing well}."
+    Translation: "Yes, {I am doing well}"
     Alternative translations:
-      - Yes, I'm doing well.
-      - Yes, I am good.
-      - Yes, I'm good.
+      - Yes, I'm doing well
+      - Yes, I am good
+      - Yes, I'm good
       
   - Phrase: Katemmah esámẽteh?
-    Translation: "{Where do} {you come from}?"
+    Translation: "{Where do} {you come from}"
     Alternative translations:
-      - Where are you from?
+      - Where are you from
 
   - Phrase: Balbãsa' ámẽteleh.
-    Translation: "{I come from} {New Orleans}."
+    Translation: "{I come from} {New Orleans}"
     Alternative translations:
-      - I am from New Orleans.
-      - I come from Balbancha.
-      - I am from Balbancha.
-      - I come from Bulbancha.
-      - I am from Bulbancha.
+      - I am from New Orleans
+      - I come from Balbancha
+      - I am from Balbancha
+      - I come from Bulbancha
+      - I am from Bulbancha
 
 Mini-dictionary:
   Houma:
-    - á:
-        - from
-        - at
-    - a:
-        - be
-        - am
-        - are
-        - is
     - ámẽteleh:
         - I come from
         - I am from
         - I'm from
-    - anatu:
-        - I
-        - as for me
-    - tcesnatu:
-        - you
-        - as for you
     - esámẽteh:
         - you come from
         - you are from
@@ -147,24 +133,9 @@ Mini-dictionary:
     - yakuke:
         - thank you
         - thanks
-    - mẽteh:
-        - come
-        - he comes
-        - she comes
-        - it comes
-        - they come
-    - ?: ?
 
   English:
-    - be: a
-    - are: a
-    - is: a
-    - am: a
-    - from: á
     - I come from: ámẽteleh
-    - I: anatu
-    - you: tcesnatu
-    - come: mẽteh
     - you come from: esámẽteh
     - New Orleans: Balbãsa'
     - yes: ã
@@ -176,4 +147,3 @@ Mini-dictionary:
     - where do: katemmah
     - hello: aletu
     - thank you: yakuke
-    - ?: ?
