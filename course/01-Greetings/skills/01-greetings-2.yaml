@@ -7,27 +7,38 @@ Skill:
 New words:
   - Word: ulhtcefu'
     Translation: name
+    Also accepted:
+      - his name
+      - her name
+      - its name
+      - their name
 
   - Word: seyulhtcefu'
-    Translation: my name
+    Translation: "{my name}"
 
   - Word: tceyulhtcefu'
-    Translation: your name
+    Translation: "{your name}"
 
   - Word: nãtah
-    Translation: what is
+    Translation: "{what is}"
 
   
 Phrases:
-  - Phrase: Tceyulhtcefuyat nãtah?
-    Translation: "{What is} {your name}?"
+  - Phrase: Tceyulhtcefuyat nãtah
+    Translation: "{What is} {your name}"
 
-  - Phrase: Seyulhtcefuyat Sammy.
-    Translation: "{My name is} Sammy."
+  - Phrase: Seyulhtcefuyat Sammy
+    Translation: "{My name is} Sammy"
 
 
 Mini-dictionary:
   Houma:
+    - ulhtcefu':
+      - name
+      - his name
+      - her name
+      - its name
+      - their name
     - nãtah:
       - what
       - what is
