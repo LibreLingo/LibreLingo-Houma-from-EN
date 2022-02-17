@@ -70,14 +70,14 @@ Phrases:
       - "{The snakes} {are small}"
 
   - Phrase: Sãte' elappat useh.
-    Translation: "{This snake} {is small}"
+    Translation: "This snake {is small}"
     Alternative translations:
-      - "{These snakes} {are small}"
+      - "These snakes {are small}"
 
   - Phrase: Sãte' yammat tcetuh
-    Translation: "{That snake} {is big}"
+    Translation: "That snake {is big}"
     Alternative translations:
-      - "{Those snakes} {are big}"
+      - "Those snakes {are big}"
 
   - Phrase: Naniyat tcetuh
     Translation: "{The fish} {is big}"
@@ -90,14 +90,14 @@ Phrases:
       - "{The birds} {are big}"
 
   - Phrase: Tcukfe' elappat tcetuh
-    Translation: "{This rabbit} {is big}"
+    Translation: "This rabbit {is big}"
     Alternative translations:
-      - "{These rabbits} {are big}"
+      - "These rabbits {are big}"
       
   - Phrase: Sawe' yammat useh
-    Translation: "{That raccoon} {is small}"
+    Translation: "That raccoon {is small}"
     Alternative translations:
-      - "{Those raccoons} {are small}"
+      - "Those raccoons {are small}"
 
 
 Mini-dictionary:
