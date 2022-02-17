@@ -50,47 +50,47 @@ New words:
   - Word: elappat
     Translation: this
     Also accepted:
-      - this is
+      - "{this is}"
       - these
-      - these are
+      - "{these are}"
     
   - Word: yammat
     Translation: that
     Also accepted:
-      - that is
+      - "{that is}"
       - those
-      - those are
+      - "{those are}"
 
 Phrases:
-  - Phrase: Elappat nãtah?
-    Translation: "{What is} this?"
+  - Phrase: Elappat nãtah
+    Translation: "{What is} this"
     Alternative translations:
-      - "{What are} these?"
+      - "{What are} these"
 
-  - Phrase: Yammat nãtah?
-    Translation: "{What is} that?"
+  - Phrase: Yammat nãtah
+    Translation: "{What is} that"
     Alternative translations:
-      - "{What are} those?"
+      - "{What are} those"
 
-  - Phrase: Elappat lukse'.
-    Translation: "{This is} {a turtle}."
+  - Phrase: Elappat lukse'
+    Translation: "{This is} {a turtle}"
     Alternative translations:
-      - "{These are} turtles."
+      - "{These are} turtles"
 
-  - Phrase: Yammat saktce'.
-    Translation: "{That is} {a crawfish}."
+  - Phrase: Yammat saktce'
+    Translation: "{That is} {a crawfish}"
     Alternative translations:
-      - "{Those are} crawfish."
+      - "{Those are} crawfish"
 
-  - Phrase: Elappat upa'.
-    Translation: "{This is} {an owl}."
+  - Phrase: Elappat upa'
+    Translation: "{This is} {an owl}"
     Alternative translations:
-      - "{This is} {an owl}."
+      - "{This is} {an owl}"
 
-  - Phrase: Yammat ufe'.
-    Translation: "{That is} {a dog}."
+  - Phrase: Yammat ufe'
+    Translation: "{That is} {a dog}"
     Alternative translations:
-      - "{Those are} dogs."
+      - "{Those are} dogs"
 
 
 Mini-dictionary:
@@ -128,6 +128,7 @@ Mini-dictionary:
 
   English:
     - turtle: lukse'
+    - a turtle: lukse'
     - owl: upa'
     - cat: katus
     - turkey: pakét
