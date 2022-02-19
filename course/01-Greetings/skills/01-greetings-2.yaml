@@ -8,10 +8,10 @@ New words:
   - Word: ulhtcefu'
     Translation: name
     Also accepted:
-      - his name
-      - her name
-      - its name
-      - their name
+      - "{his name}"
+      - "{her name}"
+      - "{its name}"
+      - "{their name}"
 
   - Word: seyulhtcefu'
     Translation: "{my name}"
@@ -29,6 +29,9 @@ Phrases:
 
   - Phrase: Seyulhtcefuyat Sammy
     Translation: "{My name is} Sammy"
+    
+  - Phrase: Tceyulhtcefuyat Rosalie
+    Translation: "{Your name is} Rosalie" 
 
 
 Mini-dictionary:
@@ -47,9 +50,18 @@ Mini-dictionary:
       - your name
       - your name is
     - Sammy: Sammy
+    - Rosalie: Rosalie
 
   English:
+    - name: ulhtcefu'
+    - his name: ulhtcefu'
+    - her name: ulhtcefu'
+    - its name: ulhtcefu'
+    - their name: ulhtcefu'
     - my name is: seyulhtcefuyat
     - your name: tceyulhtcefuyat
+    - your name is: tceyulhtcefuyat
+    - what: nãtah
     - what is: nãtah
     - Sammy: Sammy
+    - Rosalie: Rosalie
