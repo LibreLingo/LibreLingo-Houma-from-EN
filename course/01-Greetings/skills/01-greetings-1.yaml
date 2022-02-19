@@ -1,7 +1,6 @@
 Skill:
   Id: 11
   Name: Greetings 1
-  Thumbnails:
 
 
 New words:
@@ -19,26 +18,20 @@ New words:
 
   - Word: amatcúkumah
     Translation: "{I am good}"
-    Also accepted:
-      - I'm good
 
   - Word: atcúkumah
     Translation: "{to be good}"
     Also accepted:
-      - it is good
-      - he is good
-      - she is good
-      - they are good
+      - "{it is good}"
+      - "{he is good}"
+      - "{she is good}"
+      - "{they are good}"
 
   - Word: ámẽteleh
     Translation: "{I come from}"
-    Also accepted:
-      - "{I am from}"
 
   - Word: yakuke
     Translation: "{thank you}"
-    Also accepted:
-      - Thanks
 
   - Word: ume
     Translation: "{you're welcome}"
@@ -51,8 +44,6 @@ New words:
     
   - Word: esámẽteh
     Translation: "{you come from}"
-    Also accepted:
-      - "{you are from}"
 
 Phrases:
   - Phrase: Aletu tcematcúkumáhũ
