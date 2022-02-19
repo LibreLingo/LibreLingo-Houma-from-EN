@@ -85,9 +85,9 @@ Phrases:
       - "{The fish} {are big}"
 
   - Phrase: Úseyat useh
-    Translation: "{The bird} {is big}"
+    Translation: "{The bird} {is small}"
     Alternative translations:
-      - "{The birds} {are big}"
+      - "{The birds} {are small}"
 
   - Phrase: Tcukfe' elappat tcetuh
     Translation: "This rabbit {is big}"
