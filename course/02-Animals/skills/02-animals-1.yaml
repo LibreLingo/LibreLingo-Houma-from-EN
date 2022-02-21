@@ -53,6 +53,10 @@ New words:
       - "{this is}"
       - these
       - "{these are}"
+    Images:
+      - this1
+      - this2
+      - this3
     
   - Word: yammat
     Translation: that
@@ -60,6 +64,10 @@ New words:
       - "{that is}"
       - those
       - "{those are}"
+    Images:
+      - that1
+      - that2
+      - that3
 
 Phrases:
   - Phrase: Elappat nãtah
