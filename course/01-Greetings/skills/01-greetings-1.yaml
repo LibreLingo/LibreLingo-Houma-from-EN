@@ -6,46 +6,56 @@ Skill:
 New words:
   - Word: Aletu
     Translation: Hello
+    Images:
+      - hello1
+      - hello2
+      - hello3
 
   - Word: tcematcúkumáhũ
     Translation: "{are you good}"
-
-  - Word: Ã
-    Translation: yes
-
-  - Word: keyu
-    Translation: no
+    Images:
+      - howareyou1
+      - howareyou2
+      - howareyou3
 
   - Word: amatcúkumah
     Translation: "{I am good}"
-
-  - Word: atcúkumah
-    Translation: "{to be good}"
-    Also accepted:
-      - "{it is good}"
-      - "{he is good}"
-      - "{she is good}"
-      - "{they are good}"
-
-  - Word: ámẽteleh
-    Translation: "{I come from}"
+    Images:
+      - good1
+      - good2
+      - good3
 
   - Word: yakuke
     Translation: "{thank you}"
-
-  - Word: ume
-    Translation: "{you're welcome}"
+    Images:
+      - thankyou1
+      - thankyou2
+      - thankyou3
       
   - Word: Balbãsa'
     Translation: "{New Orleans}"
+    Images:
+      - neworleans1
+      - neworleans2
+      - neworleans3
    
   - Word: katemmah
     Translation: where
+    Images:
+      - where1
+      - where2
+      - where3
     
   - Word: esámẽteh
     Translation: "{you come from}"
+      - worldmap1
+      - worldmap2
+      - worldmap3
 
 Phrases:
+  - Phrase: Umé
+    Translation: "{you're welcome}"
+    
   - Phrase: Aletu tcematcúkumáhũ
     Translation: "Hello, {are you good}"
 
@@ -67,13 +77,6 @@ Mini-dictionary:
     - esámẽteh: you come from
     - Balbãsa: New Orleans
     - ã: yes
-    - keyu: no
-    - atcúkumah:
-        - to be good
-        - he is good
-        - she is good
-        - they are good
-        - it is good
     - amatcúkumah: I am good
     - tcematcúkumahũ: are you good
     - katemmah:
@@ -81,21 +84,17 @@ Mini-dictionary:
         - where do
     - aletu: hello
     - yakuke: thank you
+    - umé: you're welcome
 
   English:
     - I come from: ámẽteleh
     - you come from: esámẽteh
     - New Orleans: Balbãsa'
     - yes: ã
-    - no: keyu
-    - to be good: atcúkumah
-    - he is good: atcúkumah
-    - she is good: atcúkumah
-    - they are good: atcúkumah
-    - it is good: atcúkumah
-    - I am doing well: amatcúkumah
-    - are you doing well: tcematcúkumahũ
+    - I am good: amatcúkumah
+    - are you good: tcematcúkumahũ
     - where: katemmah
     - where do: katemmah
     - hello: aletu
     - thank you: yakuke
+    - you're welcome: umé
