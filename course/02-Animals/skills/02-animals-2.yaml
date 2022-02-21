@@ -54,6 +54,10 @@ New words:
       - "{he is big}"
       - "{she is big}"
       - "{they are big}"
+    Images:
+      - big1
+      - big2
+      - big3
     
   - Word: useh
     Translation: "{to be small}"
@@ -62,6 +66,10 @@ New words:
       - "{he is small}"
       - "{she is small}"
       - "{they are small}"
+    Images:
+      - small1
+      - small2
+      - small3
 
 Phrases:
   - Phrase: Sãteyat useh
