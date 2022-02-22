@@ -34,6 +34,9 @@ Course:
 Modules:
   - 01-Greetings/
   - 02-Animals/
+  - 03-People/
+  - 04-Colors/
+  - 05-Weather/
 
 Settings:
     - disable audio files
