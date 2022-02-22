@@ -1,0 +1,160 @@
+Skill:
+  Id: 32
+  Name: People 2
+
+
+New words:
+  - Word: seyáyena'
+    Translation: "{my mother}"
+    Images:
+      - mother1
+      - mother2
+      - mother3
+      
+  - Word: tceyáyena'
+    Translation: "{your mother}"
+    Images:
+      - mother1
+      - mother2
+      - mother3
+
+  - Word: ãke'
+    Translation: "{my father}"
+    Images:
+      - father1
+      - father2
+      - father3
+
+  - Word: tcẽke'
+    Translation: "{your father}"
+    Images:
+      - father1
+      - father2
+      - father3
+      
+  - Word: ekhanátce'
+    Translation: teacher
+    Also accepted:
+      - "{a teacher}"
+    Images:
+      - teacher1
+      - teacher2
+      - teacher3
+   
+  - Word: tcáhah
+    Translation: "{to be tall}"
+    Also accepted:
+      - "{is tall}"
+      - "{he is tall}"
+      - "{she is tall}"
+      - "{they are tall}"
+    Images:
+      - tall1
+      - tall2
+      - tall3
+    
+  - Word: kawásah
+    Translation: "{to be short}"
+    Also accepted:
+      - "{is short}"
+      - "{his is short}"
+      - "{she is short}"
+      - "{they are short}"
+    Images:
+      - short1
+      - short2
+      - short3
+
+Phrases:
+  - Phrase: Ãkeyat tcáhah
+    Translation: "{My father} "{is tall}"
+    
+  - Phrase: Ekhanátceyat kawásah
+    Translation: "{The teacher} {is short}"
+
+  - Phrase: Tceyáyenayat tcáhah
+    Translation: "{Your mother} {is tall}"
+    
+  - Phrase: Tcẽkeyat kawásah
+    Translation: "{Your father} {is short}"
+      
+  - Phrase: Seyáyenayat kawásah
+    Translation: "{My mother} {is short}"
+    
+  - Phrase: Ekhanátceyat tcáhah
+    Translation: "{The teacher} {is tall}"
+    
+  - Phrase: Ekhanátceyat seyáyena'
+    Translation: "{The teacher} {is my mother}"
+  
+  - Phrase: Tcẽkeyat ekhanátce'
+    Translation: "{Your father} {is a teacher}"
+
+Mini-dictionary:
+  Houma:
+    - seyáyena':
+      - my mother
+      - is my mother
+    - seyáyenayat: my mother
+    - tceyáyena: your mother
+    - tceyáyenayat: your mother
+    - ãke': my father
+    - ãkeyat: my father
+    - tcẽke': your father
+    - tcẽkeyat: your father
+    - ekhanátce':
+      - teacher
+      - a teacher
+      - teachers
+      - is a teacher
+    - ekhanátceyat':
+      - the teacher
+      - the teachers
+    - tcáhah:
+      - to be tall
+      - is tall
+      - he is tall
+      - she is tall
+      - it is tall
+      - they are tall
+    - kawásah:
+      - to be small
+      - is small
+      - he is small
+      - she is small
+      - it is small
+      - they are small
+    
+
+  English:
+    - my mother:
+      - seyáyena'
+      - seyáyenayat
+    - is my mother:
+      - seyáyena'
+    - your mother:
+      - tceyáyena'
+      - tceyáyenayat
+    - my father:
+      - ãke'
+      - ãkeyat
+    - your father:
+      - tcẽke'
+      - tcẽkeyat
+    - teacher: ekhanátce'
+    - a teacher: ekhanátce'
+    - is a teacher: ekhanátce'
+    - the teacher: ekhanátceyat
+    - is tall: tcáhah
+    - to be tall: tcáhah
+    - he is tall: tcáhah
+    - she is tall: tcáhah
+    - it is tall: tcáhah
+    - they are tall: tcáhah
+    - is short: kawásah
+    - to be short: kawásah
+    - he is short: kawásah
+    - she is short: kawásah
+    - it is short: kawásah
+    - they are short: kawásah
+  
