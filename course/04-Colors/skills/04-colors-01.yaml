@@ -1,1 +1,158 @@
+Skill:
+  Id: 41
+  Name: Colors 1
 
+
+New words:
+  - Word: umah
+    Translation: "{to be red}"
+    Also accepted:
+      - "{to be red}"
+      - "{is red}"
+      - "{it is red}"
+      - "{they are red}"
+    Images:
+      - red1
+      - red2
+      - red3
+
+  - Word: lusah
+    Translation: "{to be black}"
+    Also accepted:
+      - "{to be black}"
+      - "{is black}"
+      - "{it is black}"
+      - "{they are black}"
+    Images:
+      - black1
+      - black2
+      - black3
+
+  - Word: atah
+    Translation: "{to be white}"
+    Also accepted:
+      - "{to be white}"
+      - "{is white}"
+      - "{it is white}"
+      - "{they are white}"
+    Images:
+      - white1
+      - white2
+      - white3
+
+  - Word: lákanah
+    Translation: "{to be yellow}"
+    Also accepted:
+      - "{to be yellow}"
+      - "{is yellow}"
+      - "{it is yellow}"
+      - "{they are yellow}"
+    Images:
+      - yellow1
+      - yellow2
+      - yellow3
+      
+  - Word: nánẽtcũa'
+    Translation: tattoo
+    Images:
+      - tattoo1
+      - tattoo2
+      - tattoo3
+   
+  - Word: nápakãle'
+    Translation: flower
+    Images:
+      - flower1
+      - flower2
+      - flower3
+    
+  - Word: tcukka'
+    Translation: house
+    Images:
+      - house1
+      - house2
+      - house3
+
+Phrases:
+  - Phrase: Tcukkayat umah
+    Translation: "{The house} "{is red}"
+    
+  - Phrase: Tcukkayat atah
+    Translation: "{The house} {is white}"
+
+  - Phrase: Nápakãleyat lákanah
+    Translation: "{The flower} {is yellow}"
+    
+  - Phrase: Nánẽtcũayat lusah
+    Translation: "{The tattoo} {is black}"
+      
+  - Phrase: Nápakãleyat umah
+    Translation: "{The flower} {is red}"
+
+  - Phrase: Umah
+    Translation: "{It is red}"
+
+  - Phrase: Lákanah
+    Translation: "{It is yellow}"
+
+Mini-dictionary:
+  Houma:
+    - umah:
+      - to be red
+      - is red
+      - it is red
+      - they are red
+    - lusah:
+      - to be black
+      - is black
+      - it is black
+      - they are black
+    - atah:
+      - to be white
+      - is white
+      - it is white
+      - they are white
+    - lákanah:
+      - to be yellow
+      - is yellow
+      - it is yellow
+      - they are yellow
+    - nánẽtcũa':
+      - tattoo
+      - a tattoo
+    - nánẽtcũayat: the tattoo
+    - nápakãle':
+      - flower
+      - a flower
+    - nápakãleyat: the flower
+    - tcukka':
+      - house
+      - a house
+    - tcukkayat: the house
+
+  English:
+    - to be red: umah
+    - is red: umah
+    - it is red: umah
+    - they are red: umah 
+    - to be black: lusah
+    - is black: lusah
+    - it is black: lusah
+    - they are black: lusah
+    - to be white: atah
+    - is white: atah
+    - it is white: atah
+    - they are white: atah
+    - to be yellow: lákanah
+    - is yellow: lákanah
+    - it is yellow: lákanah
+    - they are yellow: lákanah
+    - tattoo: nánẽtcũa'
+    - a tattoo: nánẽtcũa'
+    - the tattoo: nánẽtcũayat
+    - flower: nápakãle'
+    - a flower: nápakãle'
+    - the flower: nápakãleyat
+    - house: tcukka'
+    - a house: tcukka'
+    - the house: tcukkayat
