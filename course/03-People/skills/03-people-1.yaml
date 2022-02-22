@@ -1,0 +1,143 @@
+Skill:
+  Id: 31
+  Name: People 1
+
+
+New words:
+  - Word: dayek
+    Translation: woman
+    Also accepted:
+      - "{a woman}"
+      - women
+    Images:
+      - woman1
+      - woman2
+      - woman3
+
+  - Word: atak
+    Translation: man
+    Also accepted:
+      - "{a man}"
+      - men
+    Images:
+      - man1
+      - man2
+      - man3
+
+  - Word: alektce'
+    Translation: doctor
+    Also accepted:
+      - "{a doctor}"
+      - doctors
+    Images:
+      - doctor1
+      - doctor2
+      - doctor3
+
+  - Word: mẽku'
+    Translation: chief
+    Also accepted:
+      - "{a chief}"
+      - "{the chief}"
+      - chiefs
+    Images:
+      - chief1
+      - chief2
+      - chief3
+      
+  - Word: alla'
+    Translation: child
+    Also accepted:
+      - "{a child}"
+      - children
+    Images:
+      - child1
+      - child2
+      - child3
+   
+  - Word: seyah
+    Translation: "{I am}"
+    Images:
+      - iam1
+      - iam2
+      - iam3
+    
+  - Word: tceyah
+    Translation: "{you are}"
+    Images:
+      - youare1
+      - youare2
+      - youare3
+
+Phrases:
+  - Phrase: Dayek seyah
+    Translation: "{I am} "{a woman}"
+    
+  - Phrase: Atak seyah
+    Translation: "{I am} {a man}"
+
+  - Phrase: Dayek tceyah
+    Translation: "{You are} {a woman}"
+    
+  - Phrase: Alektce' seyah
+    Translation: "{I am} {a doctor}"
+      
+  - Phrase: Mẽku' seyah
+    Translation: "{I am} {the chief}"
+
+  - Phrase: Alla' tceyah
+    Translation: "{You are} {a child}"
+  
+  - Phrase: Dayek
+    Translation: "{She is a woman}"
+    
+  - Phrase: Alektce'
+    Translation: "{She is a doctor}"
+    Alternative translation:
+      - "{He is a doctor}"
+      - "{They are a doctor}"
+      - "{They are doctors}"
+
+Mini-dictionary:
+  Houma:
+    - alla':
+      - child
+      - a child
+      - children
+    - dayek:
+      - woman
+      - a woman
+      - women
+    - atak:
+      - man
+      - a man
+      - men
+    - alektce':
+      - doctor
+      - a doctor
+      - doctors
+    - mẽku':
+      - chief
+      - a chief
+      - chiefs
+    - seyah: I am
+    - tceyah: You are
+
+  English:
+    - child: alla'
+    - a child: alla'
+    - children: alla'
+    - woman: dayek
+    - a woman: dayek
+    - women: dayek
+    - man: atak
+    - a man: atak
+    - men: atak
+    - chief: mẽku'
+    - a chief: mẽku'
+    - chiefs: mẽku'
+    - doctor: alektce'
+    - a doctor: alektce'
+    - doctors: alektce'
+    - I am: seyah
+    - you are: tceyah
