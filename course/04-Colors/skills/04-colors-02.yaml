@@ -1,0 +1,159 @@
+Skill:
+  Id: 42
+  Name: Colors 2
+
+
+New words:
+  - Word: uktcamáleh
+    Translation: "{to be green}"
+    Also accepted:
+      - "{to be green}"
+      - "{is green}"
+      - "{it is green}"
+      - "{they are green}"
+    Images:
+      - green1
+      - green2
+      - green3
+
+  - Word: uktcakkuh
+    Translation: "{to be blue}"
+    Also accepted:
+      - "{to be blue}"
+      - "{is blue}"
+      - "{it is blue}"
+      - "{they are blue}"
+    Images:
+      - blue1
+      - blue2
+      - blue3
+
+  - Word: umakbeh
+    Translation: "{to be purple}"
+    Also accepted:
+      - "{to be purple}"
+      - "{is purple}"
+      - "{it is purple}"
+      - "{they are purple}"
+    Images:
+      - purple1
+      - purple2
+      - purple3
+
+  - Word: lákanáhatah
+    Translation: "{to be oragne}"
+    Also accepted:
+      - "{to be oragne}"
+      - "{is oragne}"
+      - "{it is oragne}"
+      - "{they are oragne}"
+    Images:
+      - oragne_color1
+      - orange_color2
+      - oragne_color3
+      
+  - Word: estẽtcũa'
+    Translation: pen
+    Images:
+      - pen1
+      - pen2
+      - pen3
+   
+  - Word: ká'
+    Translation: car
+    Images:
+      - car1
+      - car2
+      - car3
+    
+  - Word: sutek
+    Translation: sky
+    Images:
+      - sky1
+      - sky2
+      - sky3
+
+Phrases:
+  - Phrase: Estẽtcũayat lákanáhatah
+    Translation: "{The pen} "{is orange}"
+    
+  - Phrase: Káyat uktcamáleh
+    Translation: "{The car} {is green}"
+
+  - Phrase: Sutekat uktcakkuh
+    Translation: "{The sky} {is blue}"
+    
+  - Phrase: Sutekat lákanáhatah
+    Translation: "{The sky} {is orange}"
+      
+  - Phrase: Estẽtcũayat umakbeh
+    Translation: "{The pen} {is purple}"
+
+  - Phrase: Umakbeh
+    Translation: "{It is purple}"
+
+  - Phrase: Uktcamáleh
+    Translation: "{It is green}"
+    
+  - Phrase: Uktcakkuh
+    Translation: "{It is blue}"
+  
+
+Mini-dictionary:
+  Houma:
+    - uktcamáleh:
+      - to be green
+      - is green
+      - it is green
+      - they are green
+    - uktcakkuh:
+      - to be blue
+      - is blue
+      - it is blue
+      - they are blue
+    - umakbeh:
+      - to be purple
+      - is purple
+      - it is purple
+      - they are purple
+    - lákanáhatah:
+      - to be orange
+      - is orange
+      - it is orange
+      - they are orange
+    - estẽtcũa':
+      - pen
+      - a pen
+    - estẽtcũayat: the pen
+    - ká':
+      - car
+      - a car
+    - káyat: the car
+    - sutek': sky
+    - sutekat: the sky
+
+  English:
+    - to be green: uktcamáleh
+    - is green: uktcamáleh
+    - it is green: uktcamáleh
+    - they are green: uktcamáleh 
+    - to be blue: uktcakkuh
+    - is blue: uktcakkuh
+    - it is blue: uktcakkuh
+    - they are blue: uktcakkuh
+    - to be purple: umakbeh
+    - is purple: umakbeh
+    - it is purple: umakbeh
+    - they are purple: umakbeh
+    - to be orange: lákanáhatah
+    - is orange: lákanáhatah
+    - it is orange: lákanáhatah
+    - they are orange: lákanáhatah
+    - pen: estẽtcũa'
+    - a pen: estẽtcũa'
+    - the pen: estẽtcũayat
+    - car: ká'
+    - a car: ká'
+    - the car: káyat
+    - sky: sutek
+    - the sky: sutekat
