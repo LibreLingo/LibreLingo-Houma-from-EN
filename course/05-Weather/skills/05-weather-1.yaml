@@ -1,0 +1,128 @@
+Skill:
+  Id: 51
+  Name: Weather 1
+  Thumbnails:
+
+New words:
+
+  - Word: dúmeh
+    Translation: to be sunny
+    Images:
+      - sun1
+      - sun2
+      - sun3
+
+  - Word: usũteh
+    Translation: to be cloudy
+    Images:
+      - cloud1
+      - cloud2
+      - cloud3
+
+  - Word: ũbah
+    Translation: to rain
+    Images:
+      - rain1
+      - rain2
+      - rain3
+
+  - Word: laspah
+    Translation: to be hot
+    Images:
+      - hot1
+      - hot2
+      - hot3
+
+  - Word: kapassah
+    Translation: to be cold
+    Images:
+      - cold1
+      - cold2
+      - cold3
+      
+  - Word: kutca'
+    Translation: outside
+    Also accepted: weather
+    Images:
+      - outside1
+      - outside2
+      - outside3
+      
+  - Word: katémeh
+    Translation: "{do what}"
+    Images:
+      - what1
+      - what2
+      - what3
+
+Phrases:
+  - Phrase: Kutcayat dúmeh
+    Translation: "Outside {it is sunny}"
+
+  - Phrase: Kutcayat usũteh
+    Translation: "Outside {it is cloudy}"
+    
+  - Phrase: Kapassah
+    Translation: "{It is cold}"
+    
+  - Phrase: Tcukkayat laspah
+    Translation: "{The house} {is hot}"
+
+  - Phrase: Balbãsayat ũbah
+    Translation: "{New Orleans} {is raining}"
+    Alternative translations:
+      - "{It is raining} {in New Orleans}"
+
+  - Phrase: Kutcayat katémeh
+    Translation: "{What is it doing} outside"
+
+
+Mini-dictionary:
+  Houma:
+    - kutca':
+      - outside 
+      - weather
+    - dúmeh:
+      - to be sunny
+      - it is sunny
+    - usũteh:
+      - to be cloudy
+      - it is cloudy
+    - ũbah:
+      - to be raining
+      - it is raining
+    - kapassah:
+      - to be cold
+      - it is cold
+    - tcukkayat: the house
+    - laspah:
+      - to be hot
+      - it is hot
+      - is hot
+    - katémeh: 
+      - what is it doing
+      - do what
+    - Balbãsayat: New Orleans
+
+  English:
+    - outside:
+      - kutca'
+      - kutcayat
+    - the outside: kutcayat
+    - weather: kutca'
+    - the weather: kutcayat
+    - to be sunny: dúmeh
+    - it is sunny: dúmeh
+    - to be cloudy: usũteh
+    - it is cloudy: usũteh
+    - to be raining: ũbah
+    - it is raining: ũbah
+    - to be cold: kapassah
+    - is it cold: kapassah
+    - the house: tcukkayat
+    - to be hot: laspah
+    - it is hot: laspah
+    - is hot: laspah
+    - do what: katémeh
+    - what is it doing: katémeh
+    - New Orleans: Balbãsayat
