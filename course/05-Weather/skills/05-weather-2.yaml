@@ -1,0 +1,118 @@
+Skill:
+  Id: 52
+  Name: Weather 2
+  Thumbnails:
+
+New words:
+
+  - Word: uktubétceh
+    Translation: to be foggy
+    Images:
+      - fog1
+      - fog2
+      - fog3
+
+  - Word: uktusah
+    Translation: to snow
+    Images:
+      - snow1
+      - snow2
+      - snow3
+
+  - Word: apéleh
+    Translation: to storm
+    Images:
+      - storm1
+      - storm2
+      - storm3
+
+  - Word: elúhah
+    Translation: to thunder
+    Images:
+      - lightning1
+      - lightning2
+      - lightning3
+
+  - Word: lebésah
+    Translation: to be warm
+    Images:
+      - hot1
+      - hot2
+      - hot3
+      
+  - Word: atãffuh
+    Translation: to hail
+    Images:
+      - hail1
+      - hail2
+      - hail3
+
+Phrases:
+  - Phrase: Kutcayat uktubétceh
+    Translation: "Outside {it is foggy}"
+
+  - Phrase: Kutcayat uktusah
+    Translation: "Outside {it is snowing}"
+    
+  - Phrase: Apélah
+    Translation: "{It is stormy}"
+    
+  - Phrase: Elúhah
+    Translation: "{It is thundering}"
+
+  - Phrase: Balbãsayat lebésah
+    Translation: "{New Orleans} {is warm}"
+
+  - Phrase: Atãffuhũ
+    Translation: "{Is it hailing}"
+
+
+Mini-dictionary:
+  Houma:
+    - kutcayat: outside
+    - uktubétceh:
+      - to be foggy
+      - it is foggy
+    - uktusah:
+      - to snow
+      - it is snowing
+      - is snowing
+    - apéleh:
+      - to storm
+      - it is stormy
+    - elúhah:
+      - to thunder
+      - it is thundering
+    - lebésah:
+      - to be warm
+      - it is warm
+      - is warm
+    - atãffuh: 
+      - to hail
+      - it is hailing
+    - atãffuhũ:
+      - is it hailing
+    - Balbãsayat: New Orleans
+
+  English:
+    - outside:
+      - kutca'
+      - kutcayat
+    - the outside: kutcayat
+    - weather: kutca'
+    - the weather: kutcayat
+    - to be foggy: uktubétceh
+    - it is foggy: uktubétceh
+    - to snow: uktusah
+    - it is snowing: uktusah
+    - to storm: apéleh
+    - is it stormy: apéleh
+    - to thunder: elúhah
+    - to be thundering: elúhah
+    - to be warm: lebésah
+    - it is warm: lebésah
+    - is warm: lebésah
+    - to hail: atãffuh
+    - to be hailing: atãffuh
+    - is it hailing: atãffuhũ
+    - New Orleans: Balbãsayat
