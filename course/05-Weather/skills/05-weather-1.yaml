@@ -6,35 +6,35 @@ Skill:
 New words:
 
   - Word: dúmeh
-    Translation: to be sunny
+    Translation: "{to be sunny}"
     Images:
       - sun1
       - sun2
       - sun3
 
   - Word: usũteh
-    Translation: to be cloudy
+    Translation: "{to be cloudy}"
     Images:
       - cloud1
       - cloud2
       - cloud3
 
   - Word: ũbah
-    Translation: to rain
+    Translation: "{to rain}"
     Images:
       - rain1
       - rain2
       - rain3
 
   - Word: laspah
-    Translation: to be hot
+    Translation: "{to be hot}"
     Images:
       - hot1
       - hot2
       - hot3
 
   - Word: kapassah
-    Translation: to be cold
+    Translation: "{to be cold}"
     Images:
       - cold1
       - cold2
@@ -70,8 +70,6 @@ Phrases:
 
   - Phrase: Balbãsayat ũbah
     Translation: "{New Orleans} {is raining}"
-    Alternative translations:
-      - "{It is raining} {in New Orleans}"
 
   - Phrase: Kutcayat katémeh
     Translation: "{What is it doing} outside"
