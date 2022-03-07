@@ -6,42 +6,42 @@ Skill:
 New words:
 
   - Word: uktubétceh
-    Translation: to be foggy
+    Translation: "{to be foggy}"
     Images:
       - fog1
       - fog2
       - fog3
 
   - Word: uktusah
-    Translation: to snow
+    Translation: "{to snow}"
     Images:
       - snow1
       - snow2
       - snow3
 
   - Word: apéleh
-    Translation: to storm
+    Translation: "{to storm}"
     Images:
       - storm1
       - storm2
       - storm3
 
   - Word: elúhah
-    Translation: to thunder
+    Translation: "{to thunder}"
     Images:
       - lightning1
       - lightning2
       - lightning3
 
   - Word: lebésah
-    Translation: to be warm
+    Translation: "{to be warm}"
     Images:
       - hot1
       - hot2
       - hot3
       
   - Word: atãffuh
-    Translation: to hail
+    Translation: "{to hail}"
     Images:
       - hail1
       - hail2
