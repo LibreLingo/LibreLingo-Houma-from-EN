@@ -1,0 +1,148 @@
+Skill:
+  Id: 61
+  Name: Direct Objects 1
+  Thumbnails:
+
+New words:
+
+  - Word: nita'
+    Translation: bear
+    Images:
+      - bear1
+      - bear2
+      - bear3
+
+  - Word: esse'
+    Translation: deer
+    Images:
+      - deer1
+      - deer2
+      - deer3
+      
+  - Word: pẽte'
+    Translation: mouse
+    Images:
+      - mouse1
+      - mouse2
+      - mouse3
+
+  - Word: apah
+    Translation: "{to eat it}"
+    Images:
+      - eat1
+      - eat2
+      - eat3
+
+  - Word: dakkũ'
+    Translation: plum
+    Images:
+      - plum1
+      - plum2
+      - plum3
+      
+  - Word: nipe'
+    Translation: meat
+    Images:
+      - meat1
+      - meat2
+      - meat3
+      
+  - Word: éle'
+    Translation: mulberry
+    Images:
+      - mulberry1
+      - mulberry2
+      - mulberry3
+
+Phrases:
+  - Phrase: Nitayat nipeyã apah
+    Translation: "{The bear} eats {the meat}"
+
+  - Phrase: Esseyat éleyã apah
+    Translation: "{The deer} eats {the mulberry}"
+    
+  - Phrase: Pẽteyat dakkũyã apah
+    Translation: "{The mouse} eats {the plum}"
+    
+  - Phrase: Dakkũyã apah
+    Translation: "{She eats} {the plum}"
+    Alternative translations:
+      - "{They eat} {the plum}"
+      - "{He eats} {the plum}"
+      - "{It eats} {the plum}"
+
+  - Phrase: Éleyã apah
+    Translation: "{He eats} {the mulberry}"
+    Alternative translations:
+      - "{They eat} {the mulberry}"
+      - "{She eats} {the mulberry}"
+      - "{It eats} {the mulberry}"
+
+  - Phrase: Nipeyã apah
+    Translation: "{They eat} {the meat}"
+    Alternative translations:
+      - "{He eats} {the meat}"
+      - "{She eats} {the meat}"
+      - "{It eats} {the meat}"
+    
+  - Phrase: Pẽteyat apah
+    Translation: "{The mouse} {eats it}"
+    
+  - Phrase: Nitayat apah
+    Translation: "{The bear} {eats it}"
+    
+  - Phrase: Nitayat pẽteyã apah
+    Translation: "{The bear} eats {the mouse}"
+
+
+Mini-dictionary:
+  Houma:
+    - nita': bear
+    - nitayat: the bear
+    - esse': deer
+    - esseyat: the deer
+    - pẽte': mouse
+    - pẽteyat: the mouse
+    - apah:
+      - to eat it
+      - he eats it
+      - he eats
+      - she eats it
+      - she eats
+      - they eat it
+      - they eat
+      - it eats it
+      - it eats
+      - eats it
+    - nipe': meat
+    - nipeyã: the meat
+    - dakkũ': plum
+    - dakkũyã: the plum
+    - éle': mulberry
+    - éleyã: the mulberry
+
+  English:
+    - bear: nita'
+    - the bear: nitayat
+    - deer: esse'
+    - the deer: esseyat
+    - mouse: pẽte'
+    - the mouse:
+      - pẽteyat
+      - pẽteyã
+    - to eat it: apah
+    - he eats it: apah
+    - he eats: apah
+    - she eats it: apah
+    - she eats: apah
+    - they eat it: apah
+    - they eat: apah
+    - it eats it: apah
+    - it eats: apah
+    - eats it: apah
+    - meat: nipe'
+    - the meat: nipeyã
+    - plum: dakkũ'
+    - the plum: dakkũyã
+    - mulberry: éle'
+    - the mulberry: éleyã
