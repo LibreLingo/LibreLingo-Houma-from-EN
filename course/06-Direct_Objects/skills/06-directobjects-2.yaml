@@ -1,0 +1,146 @@
+Skill:
+  Id: 62
+  Name: Direct Objects 2
+  Thumbnails:
+
+New words:
+
+  - Word: sukatte'
+    Translation: frog
+    Images:
+      - frog1
+      - frog2
+      - frog3
+
+  - Word: sũkani'
+    Translation: ant
+    Images:
+      - ant1
+      - ant2
+      - ant3
+      
+  - Word: fani'
+    Translation: squirrel
+    Images:
+      - squirrel1
+      - squirrel2
+      - squirrel3
+
+  - Word: eskuh
+    Translation: "{to drink it}"
+    Images:
+      - drink1
+      - drink2
+      - drink3
+
+  - Word: uke'
+    Translation: water
+    Images:
+      - water1
+      - water2
+      - water3
+      
+  - Word: uktce'
+    Translation: juice
+    Images:
+      - juice1
+      - juice2
+      - juice3
+      
+  - Word: kafe'
+    Translation: coffee
+    Images:
+      - coffee1
+      - coffee2
+      - coffee3
+
+Phrases:
+  - Phrase: Sukatteyat ukeyã eskuh
+    Translation: "{The frog} drinks {the water}"
+
+  - Phrase: Sũkaniyat uktceyã eskuh
+    Translation: "{The ant} drinks {the juice}"
+    
+  - Phrase: Faniyat kafeyã eskuh
+    Translation: "{The squirrel} drinks {the coffee}"
+    
+  - Phrase: Ukeyã eskuh
+    Translation: "{She drinks} {the water}"
+    Alternative translations:
+      - "{They drink} {the water}"
+      - "{He drinks} {the water}"
+      - "{It drinks} {the water}"
+
+  - Phrase: Uktceyã eskuh
+    Translation: "{He drinks} {the juice}"
+    Alternative translations:
+      - "{They drink} {the juice}"
+      - "{She drinks} {the juice}"
+      - "{It drinks} {the juice}"
+
+  - Phrase: Kafeyã eskuh
+    Translation: "{They drink} {the coffee}"
+    Alternative translations:
+      - "{He drinks} {the coffee}"
+      - "{She drinks} {the coffee}"
+      - "{It drinks} {the coffee}"
+      
+  - Phrase: Sukatteyat eskuh
+    Translation: "{The frog} {drinks it}"
+    
+  - Phrase: Sũkaniyat eskuh
+    Translation: "{The ant} {drinks it}" 
+    
+  - Phrase: Faniyat eskuh
+    Translation: "{The squirrel} {drinks it}"
+
+
+Mini-dictionary:
+  Houma:
+    - sukatte': frog
+    - sukatteyat: the frog
+    - sũkani': ant
+    - sũkaniyat: the ant
+    - fani': squirrel
+    - faniyat: the squirrel
+    - eskuh:
+      - to drink it
+      - he drinks it
+      - he drinks
+      - she drinks it
+      - she drinks
+      - they drink it
+      - they drink
+      - it drinks it
+      - it drinks
+      - drinks it
+    - uke': water
+    - ukeyã: the water
+    - uktce': juice
+    - uktceyã: the juice
+    - kafe': coffee
+    - kafeyã: the coffee
+
+  English:
+    - frog: sukatte'
+    - the frog: sukatteyat
+    - ant: sũkani'
+    - the ant: sũkaniyat
+    - squirrel: fani'
+    - the squirrel: faniyat
+    - to drink it: eskuh
+    - he drinks it: eskuh
+    - he drinks: eskuh
+    - she drinks it: eskuh
+    - she drinks: eskuh
+    - they drink it: eskuh
+    - they drink: eskuh
+    - it drinks it: eskuh
+    - it drinks: eskuh
+    - eats it: eskuh
+    - water: uke'
+    - the water: ukeyã
+    - juice: uktce'
+    - the juice: utkceyã
+    - coffee: kafe'
+    - the coffee: kafeyã
