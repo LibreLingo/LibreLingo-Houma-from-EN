@@ -1,0 +1,196 @@
+Skill:
+  Id: 71
+  Name: Active Markers 1
+  Thumbnails:
+
+New words:
+
+  - Word: -le
+    Translation: I
+    Images:
+      - me1
+      - me2
+      - me3
+
+  - Word: es-
+    Translation: you
+    Images:
+      - you1
+      - you2
+      - you3
+      
+  - Word: nuseh
+    Translation: "{to sleep}"
+    Also accepted:
+      - "{he sleeps}"
+      - "{she sleeps}"
+      - "{it sleeps}"
+      - "{they sleep}"
+    Images:
+      - sleep1
+      - sleep2
+      - sleep3
+
+  - Word: wasúhah
+    Translation: "{to play}"
+    Also accepted:
+      - "{he plays}"
+      - "{she plays}"
+      - "{it plays}"
+      - "{they play}"
+    Images:
+      - play1
+      - play2
+      - play3
+
+  - Word: ábatceh
+    Translation: "{to practice}"
+    Also accepted:
+      - "{he practices}"
+      - "{she practices}"
+      - "{it practices}"
+      - "{they practice}"
+    Images:
+      - practice1
+      - practice2
+      - practice3
+      
+  - Word: dalúah
+    Translation: "{to sing}"
+    Also accepted:
+      - "{he sings}"
+      - "{she sings}"
+      - "{it sings}"
+      - "{they sing}"
+    Images:
+      - sing1
+      - sing2
+      - sing3
+  
+  - Word: elhah
+    Translation: "{to dance}"
+    Also accepted:
+      - "{he dances}"
+      - "{she dances}"
+      - "{it dances}"
+      - "{they dance}"
+    Images:
+      - dance1
+      - dance2
+      - dance3
+
+Phrases:
+  - Phrase: Nuséleh
+    Translation: "{I sleep}"
+
+  - Phrase: Esnuseh
+    Translation: "{You sleep}"
+    
+  - Phrase: Wasúhaleh
+    Translation: "{I play}"
+    
+  - Phrase: Eswasúhah
+    Translation: "{You play}"
+
+  - Phrase: Ábatcéleh
+    Translation: "{I practice}"
+
+  - Phrase: Esábatceh
+    Translation: "{You practice}"
+    
+  - Phrase: Dalúaleh
+    Translation: "{I sing}"
+    
+  - Phrase: Esdalúah
+    Translation: "{You sing}"
+    
+  - Phrase: Elháleh
+    Translation: "{I dance}"
+
+  - Phrase: Eselhah
+    Translation: "{You dance}"
+
+Mini-dictionary:
+  Houma:
+    - -le: I
+    - es-: you
+    - nuseh:
+      - to sleep
+      - he sleeps
+      - she sleeps
+      - it sleeps
+      - they sleep
+    - nuséleh: I sleep
+    - esnuseh: you sleep
+    - wasúhah:
+      - to play
+      - he plays
+      - she plays
+      - it plays
+      - they play
+    - wasúhaleh: I play
+    - eswasúhah: you play
+    - ábatceh:
+      - to practice
+      - he practices
+      - she practices
+      - it practices
+      - they practice
+    - ábatcéleh: I practice
+    - esábatceh: you practice
+    - dalúah:
+      - to sing
+      - he sings
+      - she sings
+      - it sings
+      - they sing
+    - dalúaleh: I sing
+    - esdalúah: you sing
+    - elhah:
+      - to dance
+      - he dances
+      - she dances
+      - it dances
+      - they dance
+    - elháleh: I dance
+    - eselhah: you dance
+
+  English:
+    - I: -le
+    - you: es-
+    - I sleep: nuséleh
+    - you sleep: esnuseh
+    - to sleep: nuseh
+    - he sleeps: nuseh
+    - she sleeps: nuseh
+    - it sleeps: nuseh
+    - they sleep: nuseh
+    - I play: wasúhaleh
+    - you play: eswasúhah
+    - to play: wasuhah
+    - he plays: wasuhah
+    - she plays: wasuhah
+    - it plays: wasuhah
+    - they play: wasuhah
+    - I practice: ábatcéleh
+    - you practice: esábatceh
+    - to practice: ábatceh
+    - he practices: ábatceh
+    - she practices: ábatceh
+    - it practices: ábatceh
+    - they practice: ábatceh
+    - I sing: dalúaleh
+    - you sing: esdalúah
+    - to sing: dalúah
+    - he sings: dalúah
+    - she sings: dalúah
+    - it sings: dalúah
+    - they sing: dalúah
+    - I dance: elháleh
+    - you dance: eselhah
+    - to dance: elhah
+    - he dances: elhah
+    - she dances: elhah
+    - it dances: elhah
+    - they dance: elhah
+    
