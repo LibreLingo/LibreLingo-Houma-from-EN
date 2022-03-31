@@ -37,6 +37,8 @@ Modules:
   - 03-People/
   - 04-Colors/
   - 05-Weather/
+  - 06-Direct_Objects/
+  - 07-Activemarkers/
 
 Settings:
     - disable audio files
