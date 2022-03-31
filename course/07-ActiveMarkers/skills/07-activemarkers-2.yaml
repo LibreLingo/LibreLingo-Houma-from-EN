@@ -1,0 +1,135 @@
+Skill:
+  Id: 72
+  Name: Active Markers 2
+  Thumbnails:
+
+New words:
+
+  - Word: é-
+    Translation: we
+    Images:
+      - we1
+      - we2
+      - we3
+
+  - Word: el-
+    Translation: we
+    Images:
+      - we1
+      - we2
+      - we3
+      
+  - Word: elú-
+    Translation: we all
+    Images:
+      - weall1
+      - weall2
+      - weall3
+      
+  - Word: elúh-
+    Translation: we all
+    Images:
+      - weall1
+      - weall2
+      - weall3
+
+  - Word: as-
+    Translation: y'all
+    Images:
+      - youall1
+      - youall2
+      - youall3
+
+Phrases:
+  - Phrase: Énuseh
+    Translation: "{We sleep}"
+
+  - Phrase: Elúnuseh
+    Translation: "{We all sleep}"
+    
+  - Phrase: Asnuseh
+    Translation: "{Y'all sleep}"
+    
+  - Phrase: Éwasúhah
+    Translation: "{We play}"
+    
+  - Phrase: Elúwasúhah
+    Translation: "{We all play}"
+    
+  - Phrase: Aswasúhah
+    Translation: "{Y'all play}"
+
+  - Phrase: Elábatceh
+    Translation: "{We practice}"
+
+  - Phrase: Elúhábatceh
+    Translation: "{We all practice}"
+    
+  - Phrase: Asábatceh
+    Translation: "{Y'all practice}"
+    
+  - Phrase: Édalúah
+    Translation: "{We sing}"
+    
+  - Phrase: Elúdalúah
+    Translation: "{We all sing}"
+    
+  - Phrase: Asdalúah
+    Translation: "{Y'all sing}"
+    
+  - Phrase: Elelhah
+    Translation: "{We dance}"
+
+  - Phrase: Elúhelhah
+    Translation: "{We all dance}"
+    
+  - Phrase: Aselhah
+    Translation: "{Y'all dance}"
+
+Mini-dictionary:
+  Houma:
+    - é-: we
+    - el-: we
+    - elú-: we all
+    - elúh: we all
+    - as-: y'all
+    - énuseh: we sleep
+    - elúnuseh: we all sleep
+    - asnuseh: y'all sleep
+    - éwasúhah: we play
+    - elúwasúhah: we all play
+    - aswasúhah: y'all play
+    - elábatceh: we practice
+    - elúhábatceh: we all practice
+    - asábatceh: y'all practice
+    - édalúah: we sing
+    - elúdalúah: we all sing
+    - asdalúah: y'all sing
+    - elelhah: we dance
+    - elúelhah: we all dance
+    - aselhah: y'all dance
+
+  English:
+    - we:
+      - é-
+      - el-
+    - we all:
+      - elú-
+      - elúh-
+    - y'all:
+      - as-
+    - we sleep: énuseh
+    - we all sleep: elúnuseh
+    - y'all sleep: asnuseh 
+    - we play: éwasúhah 
+    - we all play: elúwasúhah 
+    - y'all play: aswasúhah 
+    - we practice: elábatceh 
+    - we all practice: elúhábatceh 
+    - y'all practice: asábatceh
+    - we sing: édalúah
+    - we all sing: elúdalúah
+    - y'all sing: asdalúah 
+    - we dance: elelhah
+    - we all dance: elúelhah 
+    - y'all dance: aselhah 
