@@ -5,19 +5,6 @@ Skill:
 
 New words:
 
-  - Word: -le
-    Translation: I
-    Images:
-      - me1
-      - me2
-      - me3
-
-  - Word: es-
-    Translation: you
-    Images:
-      - you1
-      - you2
-      - you3
       
   - Word: nuseh
     Translation: "{to sleep}"
@@ -112,8 +99,6 @@ Phrases:
 
 Mini-dictionary:
   Houma:
-    - -le: I
-    - es-: you
     - nuseh:
       - to sleep
       - he sleeps
@@ -156,8 +141,6 @@ Mini-dictionary:
     - eselhah: you dance
 
   English:
-    - I: -le
-    - you: es-
     - I sleep: nuséleh
     - you sleep: esnuseh
     - to sleep: nuseh
