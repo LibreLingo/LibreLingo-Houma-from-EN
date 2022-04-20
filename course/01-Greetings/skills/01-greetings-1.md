@@ -1,10 +1,11 @@
-This section covers basic greetings and introductions in Uma. 
+## Greetings 1
+*   This section covers basic greetings and introductions in Uma. 
 
-Vocabulary:
-Aletu: Hello
-Tcematcúkumahũ?: Are you good?
-Amatcúkumah: I am good
-Ã: Yes
-Keyu: No
-Seyulhtcefuyat Sammy: My name is Sammy
-Balbãsa' ámẽteleh: I am from Balbancha
+### Vocabulary
+*   Aletu: Hello
+*   Tcematcúkumahũ?: Are you good?
+*   Amatcúkumah: I am good
+*   Ã: Yes
+*   Keyu: No
+*   Seyulhtcefuyat Sammy: My name is Sammy
+*   Balbãsa' ámẽteleh: I am from Balbancha
