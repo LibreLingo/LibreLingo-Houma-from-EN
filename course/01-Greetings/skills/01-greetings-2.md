@@ -12,11 +12,11 @@ This section covers how to ask for names in Uma.
 ### Sentence Structure
 In Uma, the verb always goes at the end of a sentence.
 
-#### "-(y)at"
-This ending denotes the subject of a sentence. We use "-at" on nouns that end in a consonant, and "-yat" for nouns that end in a vowel. Subjects go at the beginning of the sentence.
+#### The Subject Marker *-(y)at*
+This ending denotes the subject of a sentence. We use *-at* on nouns that end in a consonant, and *-yat* for nouns that end in a vowel. Subjects go at the beginning of the sentence.
 
 #### Questions as Verbs
-In Uma, question words are considered verbs when making sentences, so they go at the end of the sentence. "Nãtah" literally means "is what" or "be what."
+In Uma, question words are considered verbs when making sentences, so they go at the end of the sentence. *Nãtah* literally means "is what" or "be what."
 
 So to ask someone what their name is, we start with the noun plus -(y)at, then the question verb:
-Tceyulhtcefuyat nãtah?
+*   Tceyulhtcefuyat nãtah?
