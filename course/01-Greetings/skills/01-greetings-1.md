@@ -1,5 +1,5 @@
 ## Greetings 1
-*   This section covers basic greetings and introductions in Uma. 
+This section covers basic greetings and introductions in Uma. 
 
 ### Vocabulary
 *   Aletu: Hello
