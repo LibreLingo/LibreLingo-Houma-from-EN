@@ -3,43 +3,6 @@ Skill:
   Name: Active Markers 2
   Thumbnails:
 
-New words:
-
-  - Word: é-
-    Translation: we
-    Images:
-      - we1
-      - we2
-      - we3
-
-  - Word: el-
-    Translation: we
-    Images:
-      - we1
-      - we2
-      - we3
-      
-  - Word: elú-
-    Translation: "{we all}"
-    Images:
-      - weall1
-      - weall2
-      - weall3
-      
-  - Word: elúh-
-    Translation: "{we all}"
-    Images:
-      - weall1
-      - weall2
-      - weall3
-
-  - Word: as-
-    Translation: y'all
-    Images:
-      - youall1
-      - youall2
-      - youall3
-
 Phrases:
   - Phrase: Énuseh
     Translation: "{We sleep}"
@@ -88,11 +51,6 @@ Phrases:
 
 Mini-dictionary:
   Houma:
-    - é-: we
-    - el-: we
-    - elú-: we all
-    - elúh-: we all
-    - as-: y'all
     - énuseh: we sleep
     - elúnuseh: we all sleep
     - asnuseh: y'all sleep
@@ -110,14 +68,6 @@ Mini-dictionary:
     - aselhah: y'all dance
 
   English:
-    - we:
-      - é-
-      - el-
-    - we all:
-      - elú-
-      - elúh-
-    - y'all:
-      - as-
     - we sleep: énuseh
     - we all sleep: elúnuseh
     - y'all sleep: asnuseh 
