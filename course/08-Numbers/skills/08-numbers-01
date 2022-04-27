@@ -1,0 +1,204 @@
+Skill:
+  Id: 81
+  Name: Numbers 1
+  Thumbnails:
+
+New words:
+
+  - Word: tcaffah
+    Translation: one
+    Images:
+      - one1
+      - one2
+      - one3
+
+  - Word: dúkuluh
+    Translation: two
+    Images:
+      - two1
+      - two2
+      - two3
+
+  - Word: dutctcé^nuh
+    Translation: three
+    Images:
+      - three1
+      - three2
+      - three3
+
+  - Word: ustah
+    Translation: four
+    Images:
+      - four1
+      - four2
+      - four3
+
+  - Word: dalhlhá^peh
+    Translation: five
+    Images:
+      - five1
+      - five2
+      - five3
+      
+  - Word: pesah
+    Translation: "{to see}"
+    Alternative translations:
+      - see
+      - he sees
+      - she sees
+      - it sees
+      - they see
+    Images:
+      - see1
+      - see2
+      - see3
+
+Phrases:
+  - Phrase: Ufeyat tcaffah
+    Translation: "{There is one} dog"
+
+  - Phrase: Katusat dúkuluh
+    Translation: "{There are two} cats"
+    
+  - Phrase: Úseyat dutctcé^nuh
+    Translation: "{There are three} birds"
+    
+  - Phrase: Nitayat ustah
+    Translation: "{There are four} bears"
+
+  - Phrase: Tcukfeyat dalhlhá^peh
+    Translation: "{There are five} rabbits"
+
+  - Phrase: Ufe' tcaffahús nuseh
+    Translation: "One dog sleeps"
+    
+  - Phrase: Katus dúkuluhús wasúhah
+    Translation: "Two cats play"
+    
+  - Phrase: Úse' dutctcé^nuhús dalúah
+    Translation: "Three birds sing"
+  
+  - Phrase: Ufe' tcaffahũ pesáleh
+    Translation: "{I see} one dog"
+    
+  - Phrase: Katus dúkuluhũ pesáleh
+    Translation: "{I see} two cats"
+    
+  - Phrase: Úse' dutctcé^nuhũ pesáleh
+    Translation: "{I see} three birds"
+
+Mini-dictionary:
+  Houma:
+    - tcaffah:
+      - one
+      - there is one
+    - tcaffahús: one
+    - tcaffahũs: one
+    - dúkuluh:
+      - two
+      - there are two
+    - dúkuluhús: two
+    - dúkuluhũ: two
+    - dutctcé^nuh:
+      - three
+      - there are three
+    - dutctcé^nuhús: three
+    - dutctcé^nuhũ: three
+    - ustah:
+      - four
+      - there are four
+    - dalhlhá^peh:
+      - five
+      - there are five
+    - pesah:
+      - to see
+      - see
+      - he sees
+      - she sees
+      - it sees
+      - they see
+    - pesáleh: I see
+    katus:
+      - cat
+      - cats
+    katusat: 
+      - cat
+      - cats
+    ufe':
+      - dog
+      - dogs
+    ufeyat:
+      - dog
+      - dogs
+    úse':
+      - bird
+      - birds
+    úseyat:
+      - bird
+      - birds
+    nitayat:
+      - bear
+      - bears
+    tcukfeyat:
+      - rabbit
+      - rabbits
+    nuseh: sleeps
+    wasúhah: play
+    dalúah: sing
+      
+
+  English:
+    - one:
+      - tcaffah
+      - tcaffahús
+      - tcaffahũ
+    - there is one:
+      - tcaffah
+    - two:
+      - dúkuluh
+      - dúkuluhús
+      - dúkuluhũ
+    - there are two:
+      - dúkuluh
+    - three:
+      - dutctcé^nuh
+      - dutctcé^nuhús
+      - dutctcé^nuhũ
+    - there are three:
+      - dutctcé^nuh
+    - four:
+      - ustah
+    - there are four:
+      - ustah
+    - five:
+      - dalhlhá^peh
+    - there are five:
+      - dalhlhá^peh
+    - dog:
+      - ufe'
+      - ufeyat
+    - dogs:
+      - ufe'
+      - ufeyat
+    - cat:
+      - katus
+      - katusat
+    - cats:
+      - katus
+      - katusat
+    - bird:
+      - úse'
+      - úseyat
+    - bears: nitayat
+    - rabbits: tcukfeyat
+    - play: wasúhah
+    - sleeps: nuseh
+    - sing: dalúah
+    - to see: pesah
+    - see: pesah
+    - he sees: pesah
+    - she sees: pesah
+    - it sees: pesah
+    - they see: pesah
+    - I see: pesáleh
+    
