@@ -81,15 +81,21 @@ Phrases:
   - Phrase: Seyáyenayat kawásah
     Translation: "{My mother} {is short}"
     
-  - Phrase: Ekhanátceyat tcáhah
+  - Phrase: Nánekhanátceyat tcáhah
     Translation: "{The teacher} {is tall}"
     
-  - Phrase: Ekhanátceyat seyáyena'
+  - Phrase: Nánekhanátceyat seyáyena'
     Translation: "{The teacher} {is my mother}"
   
-  - Phrase: Tcẽkeyat ekhanátce'
+  - Phrase: Tcẽkeyat nánekhanátce'
     Translation: "{Your father} {is a teacher}"
-
+    
+  - Phrase: Tcẽkeyat nánekhanátceyũ?
+    Translation: "Is {your father} {a teacher}" 
+    
+  - Phrase: Ã, ãkeyat nánekhanátce'
+    Translation: "Yes {my father} {is a teacher}"
+    
 Mini-dictionary:
   Houma:
     - seyáyena':
@@ -102,12 +108,12 @@ Mini-dictionary:
     - ãkeyat: my father
     - tcẽke': your father
     - tcẽkeyat: your father
-    - ekhanátce':
+    - nánekhanátce':
       - teacher
       - a teacher
       - teachers
       - is a teacher
-    - ekhanátceyat:
+    - nánekhanátceyat:
       - the teacher
       - the teachers
     - tcáhah:
@@ -124,6 +130,9 @@ Mini-dictionary:
       - she is small
       - it is small
       - they are small
+    - nánekhanátceyũ: a teacher?
+    - ã: yes
+    - keyu: no
     
 
   English:
@@ -141,10 +150,10 @@ Mini-dictionary:
     - your father:
       - tcẽke'
       - tcẽkeyat
-    - teacher: ekhanátce'
-    - a teacher: ekhanátce'
-    - is a teacher: ekhanátce'
-    - the teacher: ekhanátceyat
+    - teacher: nánekhanátce'
+    - a teacher: nánekhanátce'
+    - is a teacher: nánekhanátce'
+    - the teacher: nánekhanátceyat
     - is tall: tcáhah
     - to be tall: tcáhah
     - he is tall: tcáhah
@@ -157,4 +166,6 @@ Mini-dictionary:
     - she is short: kawásah
     - it is short: kawásah
     - they are short: kawásah
-  
+    - is: (none)
+    - yes: ã
+    - no: keyu
