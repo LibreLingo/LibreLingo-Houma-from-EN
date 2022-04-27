@@ -5,33 +5,69 @@ Skill:
   
 New words:
 
+  - Word: anũpuleh
+    Translation: "{to speak}"
+    Also accepted:
+      - "{he speaks}"
+      - "{she speaks}"
+      - "[it speaks}"
+      - "{they speak}"
+    Images:
+      - talk1
+      - talk2
+      - talk3
+      
+  - Word: dulubleh
+    Translation: "{to jump}"
+    Also accepted:
+      - "{he jump}"
+      - "{she jump}"
+      - "[it jump}"
+      - "{they jump}"
+    Images:
+      - jump1
+      - jump2
+      - jump3
+      
+  - Word: duksaleh
+    Translation: "{to work}"
+    Also accepted:
+      - "{he works}"
+      - "{she works}"
+      - "[it works}"
+      - "{they work}"
+    Images:
+      - work1
+      - work2
+      - work3
+
 Phrases:
-  - Phrase: Énuseh
-    Translation: "{We sleep}"
+  - Phrase: Elanũpuleh
+    Translation: "{We speak}"
 
-  - Phrase: Elúnuseh
-    Translation: "{We all sleep}"
+  - Phrase: Elúhanũpuleh
+    Translation: "{We all speak}"
     
-  - Phrase: Asnuseh
-    Translation: "{Y'all sleep}"
+  - Phrase: Asanũpuleh
+    Translation: "{Y'all speak}"
     
-  - Phrase: Éwasúhah
-    Translation: "{We play}"
+  - Phrase: Édulubleh
+    Translation: "{We jump}"
     
-  - Phrase: Elúwasúhah
-    Translation: "{We all play}"
+  - Phrase: Elúdulubleh
+    Translation: "{We all jump}"
     
-  - Phrase: Aswasúhah
-    Translation: "{Y'all play}"
+  - Phrase: Asdulubleh
+    Translation: "{Y'all jump}"
 
-  - Phrase: Elábatceh
-    Translation: "{We practice}"
+  - Phrase: Éduksaleh
+    Translation: "{We work}"
 
-  - Phrase: Elúhábatceh
-    Translation: "{We all practice}"
+  - Phrase: Elúduksaleh
+    Translation: "{We all work}"
     
-  - Phrase: Asábatceh
-    Translation: "{Y'all practice}"
+  - Phrase: Asduksaleh
+    Translation: "{Y'all work}"
     
   - Phrase: Édalúah
     Translation: "{We sing}"
@@ -53,15 +89,33 @@ Phrases:
 
 Mini-dictionary:
   Houma:
-    - énuseh: we sleep
-    - elúnuseh: we all sleep
-    - asnuseh: y'all sleep
-    - éwasúhah: we play
-    - elúwasúhah: we all play
-    - aswasúhah: y'all play
-    - elábatceh: we practice
-    - elúhábatceh: we all practice
-    - asábatceh: y'all practice
+    - anũpuleh:
+      - to speak
+      - he speaks
+      - she speaks
+      - it speaks
+      - they speak
+    - elanũpuleh: we speak
+    - elúhanũpuleh: we all speak
+    - asanũpuleh: y'all speak
+    - dulubleh:
+      - to jump
+      - he jumps
+      - she jumps
+      - it jumps
+      - they jump
+    - édulubleh: we jump
+    - elúdulubleh: we all jump
+    - asdulubleh: y'all jump
+    - duksaleh:
+      - to work
+      - he work
+      - she works
+      - it works
+      - they work
+    - éduksaleh: we work
+    - elúduksaleh: we all work
+    - asduksaleh: y'all work
     - édalúah: we sing
     - elúdalúah: we all sing
     - asdalúah: y'all sing
@@ -70,18 +124,33 @@ Mini-dictionary:
     - aselhah: y'all dance
 
   English:
+    - to speak: anũpuleh
+    - he speaks: anũpuleh
+    - she speaks: anũpuleh
+    - it speaks: anũpuleh
+    - they speak: anũpuleh
+    - we speak: elanũpuleh
+    - we all speak: elúhanũpuleh
+    - y'all speak: asanũpuleh
+    - to jump: dulubleh
+    - he jumps: dulubleh
+    - she jumps: dulubleh
+    - it jumps: dulubleh
+    - they jump: dulubleh
+    - we jump: édulubleh
+    - we all jump: elúdulubleh
+    - y'all jump: asdulubleh
+    - to work: duksaleh
+    - he works: duksaleh
+    - she works: duksaleh
+    - it works: duksaleh
+    - they work: duksaleh
+    - we work: édukasleh
+    - we all work: elúduksaleh
+    - y'all work: asduksaleh
     - we sleep: énuseh
     - we all sleep: elúnuseh
-    - y'all sleep: asnuseh 
-    - we play: éwasúhah 
-    - we all play: elúwasúhah 
-    - y'all play: aswasúhah 
-    - we practice: elábatceh 
-    - we all practice: elúhábatceh 
-    - y'all practice: asábatceh
-    - we sing: édalúah
-    - we all sing: elúdalúah
-    - y'all sing: asdalúah 
+    - y'all sleep: asnuseh
     - we dance: elelhah
-    - we all dance: elúelhah 
-    - y'all dance: aselhah 
+    - we all dance: elúhelhah
+    - y'all dance: aselhah
