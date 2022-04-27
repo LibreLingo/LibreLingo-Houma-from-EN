@@ -99,13 +99,13 @@ Phrases:
       - "{They are doctors}"
   
   - Phrase: Mẽku' tceyahũ?
-    Translation: "{Are you} {the chief}"
+    Translation: "{Are you} {a chief}"
     
   - Phrase: Keyu, alektce' seyah
-    Translation: "No, {I am} {the doctor}"
+    Translation: "No, {I am} {a doctor}"
     
   - Phrase: Ã, mẽku' seyah
-    Translation: "Yes, {I am} {the chief}"
+    Translation: "Yes, {I am} {a chief}"
 
 Mini-dictionary:
   Houma:
@@ -152,6 +152,7 @@ Mini-dictionary:
     - chiefs: mẽku'
     - doctor: alektce'
     - a doctor: alektce'
+    - the doctor: alektce'
     - doctors: alektce'
     - I am: seyah
     - you are: tceyah
