@@ -39,6 +39,7 @@ Modules:
   - 05-Weather/
   - 06-Direct_Objects/
   - 07-ActiveMarkers/
+  - 08-Numbers/
 
 Settings:
     - disable audio files
