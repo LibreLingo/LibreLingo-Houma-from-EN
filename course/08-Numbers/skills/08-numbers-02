@@ -1,0 +1,175 @@
+Skill:
+  Id: 82
+  Name: Numbers 2
+  Thumbnails:
+
+New words:
+
+  - Word: anná^leh
+    Translation: six
+    Images:
+      - six1
+      - six2
+      - six3
+
+  - Word: ũdúkuluh
+    Translation: seven
+    Images:
+      - seven1
+      - seven2
+      - seven3
+
+  - Word: ũdutctcé^nuh
+    Translation: eight
+    Images:
+      - eight1
+      - eight2
+      - eight3
+
+  - Word: tcakká^leh
+    Translation: nine
+    Images:
+      - nine1
+      - nine2
+      - nine3
+
+  - Word: pukkú^leh
+    Translation: ten
+    Images:
+      - ten1
+      - ten2
+      - ten3
+
+Phrases:
+  - Phrase: Pakételuyat anná^leh
+    Translation: "{There are six} chickens"
+
+  - Phrase: Upayat ũdúkuluh
+    Translation: "{There are seven} owls"
+    
+  - Phrase: Sukatteyat ũdutctcé^nuh
+    Translation: "{There are eight} frogs"
+    
+  - Phrase: Naniyat tcakká^leh
+    Translation: "{There are nine} fish"
+
+  - Phrase: Saktceyat pukkú^leh
+    Translation: "{There are ten} crawfish"
+
+  - Phrase: Pakételu' anná^lehús ukeyã eskuh
+    Translation: "Six chickens drink water"
+    
+  - Phrase: Upa' ũdúkuluhús pẽteyã apah
+    Translation: "Seven owls eat mice"
+    
+  - Phrase: Sukatte' ũdutctcé^nuhús dulubleh
+    Translation: "Eight frogs jump"
+  
+  - Phrase: Pakételu' anná^lehũ pesáleh
+    Translation: "{I see} six chickens"
+    
+  - Phrase: Upa' ũdúkuluhũ pesáleh
+    Translation: "{I see} seven owls"
+    
+  - Phrase: Sukatte' ũdutctcé^nuhũ pesáleh
+    Translation: "{I see} eight frogs"
+
+Mini-dictionary:
+  Houma:
+    - anná^leh:
+      - six
+      - there are six
+    - anná^lehús: six
+    - anná^lehũ: six
+    - ũdúkuluh:
+      - seven
+      - there are seven
+    - ũdúkuluhús: seven
+    - ũdúkuluhũ: seven
+    - ũdutctcé^nuh:
+      - three
+      - there are eight
+    - ũdutctcé^nuhús: eight
+    - ũdutctcé^nuhũ: eight
+    - tcakká^leh:
+      - nine
+      - there are nine
+    - pukkú^leh:
+      - ten
+      - there are ten
+    - pesáleh: I see
+    - pakételu':
+      - chicken
+      - chickens
+    - pakételuyat: 
+      - chicken
+      - chickens
+    - upa':
+      - owl
+      - owls
+    - upayat:
+      - owl
+      - owls
+    - sukatte':
+      - frog
+      - frogs
+    - sukatteyat:
+      - frog
+      - frogs
+    - naniyat: fish
+    - saktceyat: crawfish
+    - pẽteyã: mice
+    - ukeyã: water
+    - apah: eat
+    - eskuh: drink
+    - dulubleh: jump
+      
+
+  English:
+    - six:
+      - anná^leh
+      - anná^lehús
+      - anná^lehũ
+    - there are six:
+      - anná^leh
+    - seven:
+      - ũdúkuluh
+      - ũdúkuluhús
+      - ũdúkuluhũ
+    - there are seven:
+      - ũdúkuluh
+    - eight:
+      - ũdutctcé^nuh
+      - ũdutctcé^nuhús
+      - ũdutctcé^nuhũ
+    - there are eight:
+      - ũdutctcé^nuh
+    - nine:
+      - tcakká^leh
+    - there are nine:
+      - tcakká^leh
+    - ten:
+      - pukkú^leh
+    - there are ten:
+      - pukkú^leh
+    - chicken:
+      - pakételu'
+      - pakételuyat
+    - owl:
+      - upa'
+      - upayat
+    - frog:
+      - sukatte'
+      - sukatteyat
+    - fish:
+      - nani'
+      - naniyat
+    - crawfish:
+      - saktce'
+      - saktceyat
+    - mice: pẽteyã
+    - water: ukeyã
+    - eat: apah
+    - drink: eskuh
+    - jump: dulubleh
+    - I see: pesáleh
