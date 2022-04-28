@@ -155,10 +155,19 @@ Mini-dictionary:
     - chicken:
       - pakételu'
       - pakételuyat
+    - chickens:
+      - pakételu'
+      - pakételuyat
     - owl:
       - upa'
       - upayat
+    - owls:
+      - upa'
+      - upayat
     - frog:
+      - sukatte'
+      - sukatteyat
+    - frogs:
       - sukatte'
       - sukatteyat
     - fish:
