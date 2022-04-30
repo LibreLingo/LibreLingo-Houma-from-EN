@@ -1,0 +1,218 @@
+Skill:
+  Id: 91
+  Name: Stative Markers 1
+
+
+New words:
+  - Word: bannah
+    Translation: "{to want}"
+    Also accepted:
+      - wants
+      - "{he wants}"
+      - "{she wants}"
+      - "{it wants}"
+      - "{they want}"
+    Images:
+      - want1
+      - want2
+      - want3
+
+  - Word: emettah
+    Translation: "{to be young (singular)}"
+    Also accepted:
+      - young
+      - "{is young}"
+      - "{he is young}"
+      - "{she is young}"
+      - "{it is young}"
+    Images:
+      - young1
+      - young2
+      - young3
+
+  - Word: sepúkenih
+    Translation: "{to be old}"
+    Also accepted:
+      - old
+      - "{is old}"
+      - "{he is old}"
+      - "{she is old}"
+      - "{it is old}"
+      - "{they are old}"
+    Images:
+      - old1
+      - old2
+      - old3
+  
+  - Word: náyukpah
+    Translation: "{to be happy}"
+    Also accepted:
+      - happy
+      - "{is happy}"
+      - "{he is happy}"
+      - "{she is happy}"
+      - "{it is happy}"
+      - "{they are happy}"
+    Images:
+      - happy1
+      - happy2
+      - happy3
+      
+  - Word: abékah
+    Translation: "{to be sick}"
+    Also accepted:
+      - "{to be sick}"
+      - "{is sick}"
+      - "{he is sick}"
+      - "{she is sick}"
+      - "{it is sick}"
+      - "{they are sick}"
+    Images:
+      - sick1
+      - sick2
+      - sick3
+
+Phrases:
+  - Phrase: Wasúhah sabannah
+    Translation: "{I want} {to play}"
+    
+  - Phrase: Kafeyã tcebannah
+    Translation: "{You want} {coffee}"
+
+  - Phrase: Wasúhah tcebannahũ?
+    Translation: "{Do you want} {to play}"
+    
+  - Phrase: Seyémettah
+    Translation: "{I am young}"
+      
+  - Phrase: Tceyémettah
+    Translation: "{You are young}"
+
+  - Phrase: Sasépúkenih
+    Translation: "{I am old}"
+
+  - Phrase: Tcesépúkenih
+    Translation: "{You are old}"
+  
+  - Phrase: Sanáyukpah
+    Translation: "{I am happy}"
+  
+  - Phrase: Tcenáyukpah
+    Translation: "{You are happy}"
+  
+  - Phrase: Seyábekah
+    Translation: "{I am sick"
+  
+  - Phrase: Tceyábekah
+    Translation: "{You are sick}"
+
+Mini-dictionary:
+  Houma:
+    - bannah:
+      - to want
+      - want
+      - wants
+      - he wants
+      - she wants
+      - it wants
+      - they want
+    - sabannah: I want
+    - tcebannah: you want
+    - tcebannahũ: do you want
+    - emettah:
+      - to be young
+      - young
+      - is young
+      - he is young
+      - she is young
+      - it is young
+    - seyémettah: I am young
+    - tceyémettah: you are young
+    - sepúkenih:
+      - to be old
+      - old
+      - is old
+      - are old
+      - he is old
+      - she is old
+      - it is old
+      - they are old
+    - sasépúkenih: I am old
+    - tcesépúkenih: you are old
+    - náyukpah:
+      - to be happy
+      - happy
+      - is happy
+      - are happy
+      - he is happy
+      - she is happy
+      - it is happy
+      - they are happy
+    - sanáyukpah: I am happy
+    - tcenáyukpah: you are happy
+    - abékah:
+      - to be sick
+      - sick
+      - is sick
+      - are sick
+      - he is sick
+      - she is sick
+      - it is sick
+      - they are sick
+    - seyábekah: I am sick
+    - tceyábekah: you are sick
+    - wasúhah: to play
+    - kafeyã: coffee
+
+  English:
+    - to want: bannah
+    - want: bannah
+    - wants: bannah
+    - he wants: bannah
+    - she wants: bannah
+    - it wants: bannah
+    - they want: bannah
+    - I want: sabannah
+    - you want: tcebannah
+    - to be young: emettah
+    - young: emettah
+    - is young: emettah
+    - he is young: emettah
+    - she is young: emettah
+    - it is young: emettah
+    - I am young: seyémettah
+    - you are young: tceyémettah
+    - to be old: sepúkenih
+    - old: sepúkenih
+    - is old: sepúkenih
+    - are old: sepúkenih
+    - he is old: sepúkenih
+    - she is old: sepúkenih
+    - it is old: sepúkenih
+    - they are old: sepúkenih
+    - I am old: sasépúkenih
+    - you are old: tcesépúkenih
+    - to be happy: náyukpah
+    - happy: náyukpah
+    - is happy: náyukpah
+    - are happy: náyukpah
+    - he is happy: náyukpah
+    - she is happy: náyukpah
+    - it is happy: náyukpah
+    - they are happy: náyukpah
+    - I am happy: sanáyukpah
+    - you are happy: tcenáyukpah
+    - to be sick: abékah
+    - sick: abékah
+    - is sick: abékah
+    - are sick: abékah
+    - he is sick: abékah
+    - she is sick: abékah
+    - it is sick: abékah
+    - they are sick: abékah
+    - I am sick: seyábekah
+    - you are sick: tceyábékah
+    - to play: wasúhah
+    - coffee: kafeyã
+    
+    
