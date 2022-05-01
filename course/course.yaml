@@ -40,6 +40,7 @@ Modules:
   - 06-Direct_Objects/
   - 07-ActiveMarkers/
   - 08-Numbers/
+  - 09-Stative_Markers/
 
 Settings:
     - disable audio files
