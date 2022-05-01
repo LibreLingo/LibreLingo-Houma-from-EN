@@ -1,0 +1,202 @@
+Skill:
+  Id: 92
+  Name: Stative Markers 2
+
+
+New words:
+  - Word: emetthuah
+    Translation: "{to be young} (plural)"
+    Also accepted:
+      - "{are young}"
+      - "{they are young}"
+    Images:
+      - young_plural1
+      - young_plural2
+      - young_plural3
+
+  - Word: etukselah
+    Translation: "{to be thirsty}"
+    Also accepted:
+      - "{is thirsty}"
+      - "{are thirsty}"
+      - "{he is thirsty}"
+      - "{she is thirsty}"
+      - "{it is thirsty}"
+      - "{they are thirsty}"
+    Images:
+      - thirsty1
+      - thirsty2
+      - thirsty3
+
+  - Word: uhtcaffuh
+    Translation: "{to be hungry}"
+    Also accepted:
+      - "{is hungry}"
+      - "{are hungry}"
+      - "{he is hungry}"
+      - "{she is hungry}"
+      - "{it is hungry}"
+      - "{they are hungry}"
+    Images:
+      - hungry1
+      - hungry2
+      - hungry3
+  
+  - Word: dekábeh
+    Translation: "{to be tired}"
+    Also accepted:
+      - "{is tired}"
+      - "{are tired}"
+      - "{he is tired}"
+      - "{she is tired}"
+      - "{it is tired}"
+      - "{they are tired}"
+    Images:
+      - tired1
+      - tired2
+      - tired3
+      
+  - Word: lhãpkuh
+    Translation: "{to be strong}"
+    Also accepted:
+      - "{is strong}"
+      - "{are strong}"
+      - "{he is strong}"
+      - "{she is strong}"
+      - "{it is strong}"
+      - "{they are strong}"
+    Images:
+      - strong1
+      - strong2
+      - strong3
+
+Phrases:
+  - Phrase: Peyémetthuah
+    Translation: "{We are young}"
+    
+  - Phrase: Apeyémetthuah
+    Translation: "{We all are young}"
+
+  - Phrase: Atceyémetthuah
+    Translation: "{Y'all are young}"
+    
+  - Phrase: Peyétukselah
+    Translation: "{We are thirsty}"
+      
+  - Phrase: Apeyétukselah
+    Translation: "{We all are thirsty}"
+
+  - Phrase: Atceyétukselah
+    Translation: "{Y'all are thirsty}"
+
+  - Phrase: Peyuhtcaffuh
+    Translation: "{We are hungry}"
+  
+  - Phrase: Apeyuhtcaffuh
+    Translation: "{We all are hungry}"
+  
+  - Phrase: Atceuhtcaffuh
+    Translation: "{Y'all are hungry}"
+  
+  - Phrase: Peydékabeh
+    Translation: "{We are tired}"
+  
+  - Phrase: Apedékabeh
+    Translation: "{We all are tired}"
+    
+  - Phrase: Atcedékabeh
+    Translation: "{Y'all are tired}"
+  
+  - Phrase: Pelhãpkuh
+    Translation: "{We are strong}"
+    
+  - Phrase: Apelhãpkuh
+    Translation: "{We all are strong}"
+  
+  - Phrase: Atcelhãpkuh
+    Translation: "{Y'all are strong}"
+
+Mini-dictionary:
+  Houma:
+    - emettahua:
+      - to be young (plural)
+      - are young
+      - they are young
+    - peyémetthuah: we are young
+    - apeyémetthuah: we all are young
+    - atceyémetthuah: y'all are young
+    - etukselah:
+      - to be thirsty
+      - is thirsty
+      - are thirsty
+      - he is thirsty
+      - she is thirsty
+      - it is thirsty
+      - they are thirsty
+    - peyétukselah: we are thirsty
+    - apeyétukselah: we all are thirsty
+    - atceyétukselah: y'all are thirsty
+    - uhtcaffuh:
+      - to be hungry
+      - is hungry
+      - are hungry
+      - he is hungry
+      - she is hungry
+      - it is hungry
+      - they are hungry
+    - peyuhtcaffuh: we are hungry
+    - apeyuhtcaffuh: we all are hungry
+    - atceyuhtcaffuh: y'all are hungry
+    - dekábeh:
+      - to be tired
+      - is tired
+      - are tired
+      - he is tired
+      - she is tired
+      - it is tired
+      - they are tired
+    - pedékabeh: we are tired
+    - apedékabeh: we all are tired
+    - atcedékabeh: y'all are tired
+    - lhãpkuh:
+      - to be strong
+      - is strong
+      - are strong
+      - he is strong
+      - she is strong
+      - it is strong
+      - they are strong
+    - pelhãpkuh: we are strong
+    - apelhãpkuh: we all are strong
+    - atcelhãpkuh: y'all are strong
+
+  English:
+    - to be young (plural): emetthuah
+    - are young: emetthuah
+    - they are young: emetthuah
+    - we are young: peyémetthuah
+    - we all are young: apeyémetthuah 
+    - y'all are young: atceyémetthuah
+    - to be thirsty: etukselah
+    - is thirsty: etukselah
+    - are thirsty: etukselah
+    - he is thirsty: etukselah
+    - she is thirsty: etukselah
+    - it is thirsty: etukselah
+    - they are thirsty: etukselah
+    - we are thirsty: peyétukselah
+    - we all are thirsty: apeyétukselah 
+    - y'all are thirsty: atceyétukselah
+    - to be hungry: uhtcaffuh
+    - we are hungry: peyuhtcaffuh 
+    - we all are hungry: apeyuhtcaffuh
+    - y'all are hungry: atceyuhtcaffuh 
+    - to be tired: dekábeh
+    - we are tired: pedékabeh 
+    - we all are tired: apedékabeh 
+    - y'all are tired: atcedékabeh 
+    - to be strong: lhãpkuh
+    - we are strong: pelhãpkuh
+    - we all are strong: apelhãpkuh 
+    - y'all are strong: atcelhãpkuh
+    
