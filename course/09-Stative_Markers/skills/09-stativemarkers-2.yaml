@@ -24,9 +24,9 @@ New words:
       - "{it is thirsty}"
       - "{they are thirsty}"
     Images:
-      - thirsty1
-      - thirsty2
-      - thirsty3
+      - drink1
+      - drink2
+      - drink3
 
   - Word: uhtcaffuh
     Translation: "{to be hungry}"
@@ -38,9 +38,9 @@ New words:
       - "{it is hungry}"
       - "{they are hungry}"
     Images:
-      - hungry1
-      - hungry2
-      - hungry3
+      - eat1
+      - eat2
+      - eat3
   
   - Word: dekábeh
     Translation: "{to be tired}"
@@ -52,9 +52,9 @@ New words:
       - "{it is tired}"
       - "{they are tired}"
     Images:
-      - tired1
-      - tired2
-      - tired3
+      - sleep1
+      - sleep2
+      - sleep3
       
   - Word: lhãpkuh
     Translation: "{to be strong}"
