@@ -1,0 +1,215 @@
+Skill:
+  Id: 93
+  Name: Stative Markers 3
+
+
+New words:
+  - Word: uyuh
+    Translation: "{to look for}"
+    Images:
+      - search1
+      - search2
+      - search3
+
+  - Word: súleh
+    Translation: "{to hug}"
+    Images:
+      - hug1
+      - hug2
+      - hug3
+
+Phrases:
+  - Phrase: Esseyúyuh
+    Translation: "{You look for me}"
+    
+  - Phrase: Tceyúyuleh
+    Translation: "{I look for you}"
+
+  - Phrase: Espeyúyuh
+    Translation: "{You look for us}"
+    
+  - Phrase: Asseyúyuh
+    Translation: "{Y'all look for me}"
+      
+  - Phrase: Seyúyuh
+    Translation: "{She looks for me}"
+    Alternative translations:
+      - "{He looks for me}"
+      - "{It looks for me}"
+      - "{They look for me}"
+
+  - Phrase: Eluyuh
+    Translation: "{We look for her}"
+    Alternative translations:
+      - "{We look for him}"
+      - "{We look for it}"
+      - "{We look for them}"
+
+  - Phrase: Uyuh
+    Translation: "{She looks for him}"
+    Alternative translations:
+      - "{She looks for it}"
+      - "{She looks for them}"
+      - "{He looks for her}"
+      - "{He looks for it}"
+      - "{He looks for them}"
+      - "{It looks for her}"
+      - "{It looks for him}"
+      - "{It looks for them}"
+      - "{They look for her}"
+      - "{They look for him}"
+      - "{They look for it}"
+  
+  - Phrase: Essasúleh
+    Translation: "{You hug me}"
+  
+  - Phrase: Tcesúleleh
+    Translation: "{I hug you}"
+  
+  - Phrase: Elatcesúleh
+    Translation: "{We hug y'all}"
+  
+  - Phrase: Aspesúleh
+    Translation: "{Y'all hug us}"
+    
+  - Phrase: Elúsúleh
+    Translation: "{We all hug her}"
+    Alternative translations:
+      - "{We all hug him}"
+      - "{We all hug it}"
+      - "{We all hug them}"
+      
+  - Phrase: Atcesúleh
+    Translation: "{She hugs y'all}"
+    Alternative translations:
+      - "{He hugs y'all}"
+      - "{It hugs y'all}"
+      - "{They hug y'all}"
+  
+  - Phrase: Súleh
+    Translation: "{She hugs him}"
+    Alternative translations:
+      - "{She hugs it}"
+      - "{She hugs them}"
+      - "{He hugs her}"
+      - "{He hugs it}"
+      - "{He hugs them}"
+      - "{It hugs her}"
+      - "{It hugs him}"
+      - "{It hugs them}"
+      - "{They hug her}"
+      - "{They hug him}"
+      - "{They hug it}"
+    
+
+Mini-dictionary:
+  Houma:
+    - uyuh:
+      - to look for
+      - She looks for him
+      - She looks for it
+      - She looks for them
+      - He looks for her
+      - He looks for it
+      - He looks for them
+      - It looks for her
+      - It looks for him
+      - It looks for them
+      - They look for her
+      - They look for him
+      - They look for it
+    - súleh:
+      - to hug
+      - She hugs him
+      - She hugs it
+      - She hugs them
+      - He hugs her
+      - He hugs it
+      - He hugs them
+      - It hugs her
+      - It hugs him
+      - It hugs them
+      - They hug her
+      - They hug him
+      - They hug it
+    - esseyúyuh: You look for me
+    - tceyúyuleh: I look for you
+    - espeyúyuh: you look for us
+    - asseyúyuh: y'all look for me
+    - seyúyuh:
+      - she looks for me
+      - he looks for me
+      - it looks for me
+      - they look for me
+    - eluyuh:
+      - we look for her
+      - we look for him
+      - we look for it
+      - we look for them
+    - essasúleh: you hug me
+    - tcesúleleh: I hug you
+    - elatcesúleh: we hug y'all
+    - aspesúleh: y'all hug us
+    - elúsúleh: 
+      - we all hug her
+      - we all hug him
+      - we all hug it
+      - we all hug them
+    - atcesúleh:
+      - she hugs y'all
+      - he hugs y'all
+      - it hugs y'all
+      - they hug y'all
+    
+
+  English:
+    - to look for: uyuh
+    - She looks for him: uyuh
+    - She looks for it: uyuh
+    - She looks for them: uyuh
+    - He looks for her: uyuh
+    - He looks for it: uyuh
+    - He looks for them: uyuh
+    - It looks for her: uyuh
+    - It looks for him: uyuh
+    - It looks for them: uyuh
+    - They look for her: uyuh
+    - They look for him: uyuh
+    - They look for it: uyuh
+    - to hug: súleh
+    - She hugs him: súleh
+    - She hugs it: súleh
+    - She hugs them: súleh
+    - He hugs her: súleh
+    - He hugs it: súleh
+    - He hugs them: súleh
+    - It hugs her: súleh
+    - It hugs him: súleh
+    - It hugs them: súleh
+    - They hug her: súleh
+    - They hug him: súleh
+    - They hug it: súleh
+    - You look for me: esseyúyuh
+    - I look for you: tceyúyuleh
+    - you look for us: espeyúyuh
+    - y'all look for me: asseyúyuh
+    - she looks for me: seyúyuh
+    - he looks for me: seyúyuh
+    - it looks for me: seyúyuh
+    - they look for me: seyúyuh
+    - we look for her: eluyuh
+    - we look for him: eluyuh
+    - we look for it: eluyuh
+    - we look for them: eluyuh
+    - you hug me: essasúleh 
+    - I hug you: tcesúleleh
+    - we hug y'all: elatcesúleh 
+    - y'all hug us: aspesúleh 
+    - we all hug her: elúsúleh
+    - we all hug him: elúsúleh
+    - we all hug it: elúsúleh
+    - we all hug them: elúsúleh
+    - she hugs y'all: atcesúleh
+    - he hugs y'all: atcesúleh
+    - it hugs y'all: atcesúleh
+    - they hug y'al: atcesúleh
