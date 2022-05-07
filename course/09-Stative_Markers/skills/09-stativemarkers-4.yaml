@@ -1,0 +1,153 @@
+Skill:
+  Id: 93
+  Name: Stative Markers 3
+
+
+New words:
+  - Word: afámah
+    Translation: "{to meet}"
+    Images:
+      - meet1
+      - meet2
+      - meet3
+
+  - Word: áwah
+    Translation: "{to yawn}"
+    Images:
+      - yawn1
+      - yawn2
+      - yawn3
+      
+  - Word: utelhkuh
+    Translation: "{to cough}"
+    Images:
+      - cough1
+      - cough2
+      - cough3
+
+Phrases:
+  - Phrase: Atceyáfamáleh
+    Translation: "{I meet y'all}"
+    
+  - Phrase: Afámalétuk
+    Translation: "{I met her}"
+    Alternative translations:
+      - "{I met him}"
+      - "{I met them}"
+
+  - Phrase: Espeyáfamah
+    Translation: "{You meet us}"
+    
+  - Phrase: Étceyáfamátuk
+    Translation: "{We met you}"
+      
+  - Phrase: Apeyáfamah
+    Translation: "{She meets all of us}"
+    Alternative translations:
+      - "{He meets all of us}"
+      - "{It meets all of us}"
+      - "{They meets all of us}"
+      
+  - Phrase: Afámah
+    Translation: "{She meets him}"
+    Alternative translations:
+      - "{She meets them}"
+      - "{He meets her}"
+      - "{He meets them}"
+      - "{They meet her}"
+      - "{They meet him}"
+
+  - Phrase: Seyáwah
+    Translation: "{I yawn}"
+    
+  - Phrase: Tceyáwah
+    Translation: "{You yawn}"
+    
+  - Phrase: Peyáwah
+    Translation: "{We yawn}"
+    
+  - Phrase: Apeyáwah
+    Translation: "{We all yawn}"
+    
+  - Phrase: Atceyáwah
+    Translation: "{Y'all yawn}"
+
+  - Phrase: Seyútelhkuh
+    Translation: "{I cough}"
+    
+  - Phrase: Tceyútelhkuh
+    Translation: "{You cough}"
+    
+  - Phrase: Peyútelhkuh
+    Translation: "{We cough}"
+    
+  - Phrase: Apeyútelhkuh
+    Translation: "{We all cough}"
+    
+  - Phrase: Atceyútelhkuh
+    Translation: "{Y'all cough}"
+    
+
+Mini-dictionary:
+  Houma:
+    - atceyáfamáleh: I meet y'all
+    - afámalétuk:
+      - I met her
+      - I met him
+      - I met them
+    - espeyáfamah: you meet us
+    - étceyáfamátuk: we met you
+    - apeyáfamah:
+      - she meets all of us
+      - he meets all of us
+      - they meet all of us
+    - afámah:
+      - to meet
+      - she meets him
+      - she meets them
+      - he meets her
+      - he meets them
+      - they meet her
+      - they meet him
+    - áwah: to yawn
+    - seyáwah: I yawn
+    - tceyáwah: you yawn
+    - peyáwah: we yawn
+    - apeyáwah: we all yawn
+    - atceyáwah: y'all yawn
+    - utelhkuh: to cough
+    - seyútelhkuh: I cough
+    - tceyútelhkuh: you cough
+    - peyútelhkuh: we cough
+    - apeyútelhkuh: we all cough
+    - atceyútelhkuh: y'all cough
+
+  English:
+    - I meet y'all: atceyáfamáleh 
+    - I met her: afámalétuk
+    - I met him: afámalétuk
+    - I met them: afámalétuk
+    - you meet us: espeyáfamah 
+    - we met you: étceyáfamátuk
+    - she meets all of us: apeyáfamah
+    - he meets all of us: apeyáfamah
+    - they meet all of us: apeyáfamah
+    - to meet: afámah
+    - she meets him: afámah
+    - she meets them: afámah
+    - he meets her: afámah
+    - he meets them: afámah
+    - they meet her: afámah
+    - they meet him: afámah
+    - to yawn: áwah
+    - I yawn: seyáwah
+    - you yawn: tceyáwah 
+    - we yawn: peyáwah
+    - we all yawn: apeyáwah
+    - y'all yawn: atceyáwah
+    - to cough: utelhkuh
+    - I cough: seyútelhkuh
+    - you cough: tceyútelhkuh
+    - we cough: peyútelhkuh
+    - we all cough: apeyútelhkuh 
+    - y'all cough: atceyútelhkuh
