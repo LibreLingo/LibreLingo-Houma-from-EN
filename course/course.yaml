@@ -41,6 +41,7 @@ Modules:
   - 07-ActiveMarkers/
   - 08-Numbers/
   - 09-Stative_Markers/
+  - 10-Body_Parts/
 
 Settings:
     - disable audio files
