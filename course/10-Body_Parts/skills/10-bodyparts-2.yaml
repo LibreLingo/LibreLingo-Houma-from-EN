@@ -1,0 +1,151 @@
+Skill:
+  Id: 102
+  Name: Body Parts 2
+  Thumbnails:
+
+New words:
+
+  - Word: anále'
+    Translation: leg
+    Images:
+      - leg1
+      - leg2
+      - leg3
+
+  - Word: ebbak
+    Translation: hand
+    Images:
+      - hand1
+      - hand2
+      - hand3
+      
+  - Word: eyye'
+    Translation: foot
+    Images:
+      - foot1
+      - foot2
+      - foot3
+
+  - Word: "{ebbak use'}"
+    Translation: finger
+    Images:
+      - finger1
+      - finger2
+      - finger3
+
+  - Word: "{eyye' use'}"
+    Translation: toe
+    Images:
+      - toe1
+      - toe2
+      - toe3
+      
+  - Word: ettakubba'
+    Translation: stomach
+    Images:
+      - stomach1
+      - stomach2
+      - stomach3
+      
+  - Word: wenáletceh
+    Translation: "{to shake}"
+    Images:
+      - shake1
+      - shake2
+      - shake3
+
+Phrases:
+  - Phrase: Tceyánaleyã eswenáletceh
+    Translation: "{You shake} {your leg}"
+
+  - Phrase: Atceyebbakã aswenáletceh
+    Translation: "{Y'all shake} {y'all's hands}"
+    
+  - Phrase: Tceyeyyeyã eswenáletceh
+    Translation: "{You shake} {your hand}"
+    
+  - Phrase: "{Atceyebbak useyã}" aswenáletceh
+    Translation: "{Y'all shake} {y'all's fingers}" 
+    
+  - Phrase: Seyebbakã eswenáletceh
+    Translation: "{You shake} {my hand}"
+    
+  - Phrase: "{Atceyeyye' useyã}" aswenáletceh
+    Translation: "{Y'all shake} {y'all's toes}
+    
+  - Phrase: Tceyettakubbayã eswenáletceh
+    Translation: "{You shake} {your stomach}"
+    
+  - Phrase: Tceyánaleyã eswenáletcenna
+    Translation: "{Don't you shake} {your leg}"
+
+  - Phrase: Seyebbakã eswenáletceh
+    Translation: "{Don't you shake} {my hand}"
+
+  - Phrase: "{Seyeyye' useyã}" aswenáletcenna
+    Translation: "{Don't y'all shake} {my toes}"
+    
+  - Phrase: Atceyettakubbayã aswenáletcenna
+    Translation: "{Don't y'all shake} {y'all's stomachs}"
+    
+  - Phrase: Eyyeyã eswenáletceh
+    Translation: "{Don't you shake} {her foot}"
+    Alternative translations:
+      - "{Don't you shake} {his foot}"
+      - "{Don't you shake} {their feet}"
+    
+  - Phrase: Análeyã aswenáletceh
+    Translation: "{Don't y'all shake} {her leg}"
+    Alternative translations:
+      - "{Don't y'all shake} {his leg}"
+      - "{Don't y'all shake} {their legs}"
+
+
+Mini-dictionary:
+  Houma:
+    - tceyánaleyã: your leg
+    - atceyebbakã: y'all's hands
+    - tceyeyyeyã: your foot
+    - atceyebbak useyã: y'all's fingers
+    - seyebbakã: my hand
+    - atceyeyye' useyã: y'all's toes
+    - tceyettakubbayã: your stomach
+    - tceyánaleyã: your leg
+    - seyeyye' useyã: my toes
+    - atceyettakubbayã: y'all's stomachs
+    - eyyeyã:
+      - her foot
+      - his foot
+      - their foot
+    - análeyã:
+      - her leg
+      - his leg
+      - their leg
+    - eswenáletceh: you shake
+    - eswenáletcenna: don't you shake
+    - aswenáletceh: y'all shake
+    - aswenáletcenna: don't y'all shake
+    - wenáletceh: to shake
+    
+  English:
+    - your leg: tceyánaleyã
+    - y'all's hands: atceyebbakã
+    - your foot: tceyeyyeyã
+    - y'all's fingers: atceyebbak useyã 
+    - my hand: seyebbakã
+    - y'all's toes: atceyeyye' useyã
+    - your stomach: tceyettakubbayã
+    - your leg: tceyánaleyã
+    - my toes: seyeyye' useyã
+    - y'all's stomachs: atceyettakubbayã
+    - her foot: eyyeyã
+    - his foot: eyyeyã
+    - their foot: eyyeyã
+    - her leg: análeyã
+    - his leg: análeyã
+    - their leg: análeyã
+    - you shake: eswenáletceh
+    - don't you shake: eswenáletcenna
+    - y'all shake: aswenáletceh
+    - don't y'all shake: aswenáletcenna 
+    - to shake: wenáletceh
