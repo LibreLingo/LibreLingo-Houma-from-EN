@@ -1,0 +1,148 @@
+Skill:
+  Id: 101
+  Name: Body Parts 1
+  Thumbnails:
+
+New words:
+
+  - Word: naskubu'
+    Translation: head
+    Images:
+      - head1
+      - head2
+      - head3
+
+  - Word: niskẽ'
+    Translation: eye
+    Images:
+      - eye1
+      - eye2
+      - eye3
+      
+  - Word: ebésákani'
+    Translation: nose
+    Images:
+      - nose1
+      - nose2
+      - nose3
+
+  - Word: aksubes
+    Translation: ear
+    Images:
+      - ear1
+      - ear2
+      - ear3
+
+  - Word: nasúka'
+    Translation: face
+    Images:
+      - face1
+      - face2
+      - face3
+      
+  - Word: sakba'
+    Translation: arm
+    Images:
+      - arm1
+      - arm2
+      - arm3
+      
+  - Word: débleh
+    Translation: "{to touch}"
+    Images:
+      - touch1
+      - touch2
+      - touch3
+
+Phrases:
+  - Phrase: Tcenaskubuyã esdébleh
+    Translation: "{You touch} {your head}"
+
+  - Phrase: Atceniskẽyã asdébleh
+    Translation: "{Y'all touch} {y'all's eyes}"
+    
+  - Phrase: Tceyébesákaniyã esdébleh
+    Translation: "{You touch} {your nose}"
+    
+  - Phrase: Atceaksubesã asdébleh
+    Translation: "{Y'all touch} {y'all's noses}" 
+    
+  - Phrase: Sanaskubuyã esdébleh
+    Translation: "{You touch} {my head}"
+    
+  - Phrase: Seyébesákaniyã asdébleh
+    Translation: "{Y'all touch} {my nose}
+    
+  - Phrase: Tceyaksubesã esdéblenna
+    Translation: "{Don't you touch} {your ear}"
+
+  - Phrase: Sanaskubuyã esdéblenna
+    Translation: "{Don't you touch} {my head}"
+
+  - Phrase: Sasakbayã asdéblenna
+    Translation: "{Don't y'all touch} {my arm}"
+    
+  - Phrase: Atcenásukayã asdéblenna
+    Translation: "{Don't y'all touch} {y'all's faces}"
+    
+  - Phrase: Nasúkayã esdéblenna
+    Translation: "{Don't you touch} {her face}"
+    Alternative translations:
+      - "{Don't you touch} {his face}"
+      - "{Don't you touch} {their faces}"
+    
+  - Phrase: Sakbayã asdéblenna
+    Translation: "{Don't y'all touch} {her arm}"
+    Alternative translations:
+      - "{Don't y'all touch} {his arm}"
+      - "{Don't y'all touch} {their arm}"
+
+
+Mini-dictionary:
+  Houma:
+    - tcenaskubuyã : your head
+    - atceniskẽyã: y'all's eyes
+    - tceyébesákaniyã: your nose
+    - atceaksubesã: y'all's ears
+    - sanaskubuyã: my head
+    - seyébesákaniyã: my nose
+    - tceyaksubesã: your ear
+    - sanaskubuyã: my head
+    - sasakbayã: my arm
+    - atcenásukayã: y'all's faces
+    - nasúkayã:
+      - her face
+      - his face
+      - their face
+    - sakbayã:
+      - her arm
+      - his arm
+      - their arm
+    - esdébleh: you touch
+    - asdébleh: y'all touch
+    - esdéblenna: don't you touch
+    - asdéblenna: don't y'all touch
+    - débleh: to touch
+    
+  English:
+    - your head: tcenaskubuyã
+    - y'all's eyes: atceniskẽyã
+    - your nose: tceyébesákaniyã 
+    - y'all's ears: atceaksubesã
+    - my head: sanaskubuyã
+    - my nose: seyébesákaniyã
+    - your ear: tceyaksubesã 
+    - my head: sanaskubuyã
+    - my arm: sasakbayã
+    - y'all's faces: atcenásukayã
+    - her face: nasúkayã
+    - his face: nasúkayã
+    - their face: nasúkayã
+    - her arm: sakbayã
+    - his arm: sakbayã
+    - their arm: sakbayã
+    - you touch: esdébleh
+    - y'all touch: asdébleh
+    - don't you touch: esdéblenna
+    - don't y'all touch: asdéblenna
+    - to touch: débleh
