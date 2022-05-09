@@ -64,13 +64,13 @@ Phrases:
   - Phrase: Tceyeyyeyã eswenáletceh
     Translation: "{You shake} {your hand}"
     
-  - Phrase: "{Atceyebbak useyã}" aswenáletceh
+  - Phrase: "{Atceyebbak useyã} aswenáletceh"
     Translation: "{Y'all shake} {y'all's fingers}" 
     
   - Phrase: Seyebbakã eswenáletceh
     Translation: "{You shake} {my hand}"
     
-  - Phrase: "{Atceyeyye' useyã}" aswenáletceh
+  - Phrase: "{Atceyeyye' useyã} aswenáletceh"
     Translation: "{Y'all shake} {y'all's toes}
     
   - Phrase: Tceyettakubbayã eswenáletceh
@@ -82,7 +82,7 @@ Phrases:
   - Phrase: Seyebbakã eswenáletceh
     Translation: "{Don't you shake} {my hand}"
 
-  - Phrase: "{Seyeyye' useyã}" aswenáletcenna
+  - Phrase: "{Seyeyye' useyã} aswenáletcenna"
     Translation: "{Don't y'all shake} {my toes}"
     
   - Phrase: Atceyettakubbayã aswenáletcenna
