@@ -1,0 +1,148 @@
+Skill:
+  Id: 71
+  Name: Food 1
+  Thumbnails:
+
+New words:
+
+      
+  - Word: upúnih
+    Translation: "{to cook}"
+    Also accepted:
+      - "{he cooks}"
+      - "{she cooks}"
+      - "{it cooks}"
+      - "{they cook}"
+    Images:
+      - cook1
+      - cook2
+      - cook3
+  
+  - Word: walhalletceh
+    Translation: "{to boil}"
+    Also accepted:
+      - "{boil}"
+      - "{he boils}"
+      - "{she boils}"
+      - "{it boils}"
+      - "{they boil}"
+    Images:
+      - boil1
+      - boil2
+      - boil3
+
+  - Word: dãtce'
+    Translation: "{corn}"
+    Also accepted:
+    Images:
+      - corn1
+      - corn2
+      - corn3
+
+  - Word: dube'
+    Translation: "{beans}"
+    Also accepted:
+    Images:
+      - beans1
+      - beans2
+      - beans3
+	  
+Phrases:
+  - Phrase: Nãtahtã esupúnih?
+    Translation: "{What are you cooking?}"
+	Also accepted:
+
+  - Phrase: Saktceyã walhalletceh
+    Translation: "{They boil crawfish}"
+	Also accepted:
+	  - "{She boils crawfish}"
+	  - "{He boils crawfish}"
+	  - "{She is boiling crawfish}"
+	  - "{He is boiling crawfish}"
+	  - "{They are boiling crawfish}"
+
+  - Phrase: Dube’ katemmahtã Johnat apátuk
+    Translation: "{Which beans did John eat?}"
+	Also accepted:
+
+  - Phrase: Dube’ elappã Johnat apátuk
+    Translation: "{John ate those beans}"
+	Also accepted:
+
+  - Phrase: Nãtahtã elúwalhalletceh?
+    Translation: "{What are we boiling?}"
+	Also accepted:
+
+  - Phrase: Dãtceyã walhalleletceh
+    Translation: "{I am boiling corn}"
+	Also accepted:
+	  - "{I boil corn}"
+
+  - Phrase: Nãtahtã espatuk?
+    Translation: "{What did you eat?}"
+	Also accepted:
+
+  - Phrase: Nipéyã apáletuk
+    Translation: "{I ate meat}"
+	Also accepted:
+	  
+Mini-dictionary:
+  Houma:
+    - upúnih:
+      - to cook
+      - he cooks
+      - she cooks
+      - it cooks
+      - they cook
+    - walhalletceh:
+      - to boil
+      - he boils
+      - she boils
+      - it boils
+      - they boil
+    - walhalleletceh: I boil
+    - elúwalhalletceh: we boil
+    - dãtce': corn
+    - dube': beans
+    - Nãtahtã: What
+    - Katemmahtã: which
+    - esupúnih: you cook
+    - Saktceyã: crawfish
+    - Johnat: John
+    - apátuk:
+      - he ate
+      - she ate
+      - it ate
+      - they ate
+    - espatuk: you ate
+    - Nipéyã: meat
+    - apáletuk: I ate
+    - elappã: those
+
+  English:
+    - to cook: upúnih
+    - he cooks: upúnih
+    - she cooks: upúnih
+    - it cooks: upúnih
+    - they cook: upúnih
+    - to boil: nuseh
+    - he boils: nuseh
+    - she boils: walhalletceh
+    - it boils: walhalletceh
+    - they boil: walhalletceh
+    - I boil: walhalleletceh
+    - we boil: elúwalhalletceh
+    - corn: dãtce'
+    - beans: dube'
+    - what: Nãtahtã
+    - which: Katemmahtã
+    - you cook: esupúnih
+    - crawfish: saktceyã
+    - John: ábatceh
+    - he ate: apátuk
+    - she ate: apátuk
+    - it ate: apátuk
+    - they ate: apátuk
+    - meat: Nipéyã
+    - I ate: apáletuk
+    - those: elappã
