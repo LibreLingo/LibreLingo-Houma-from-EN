@@ -1,0 +1,211 @@
+Skill:
+  Id: 72
+  Name: Food 2
+  Thumbnails:
+
+New words:
+  - Word: pullah
+    Translation: "{must}"
+    Also accepted:
+      - "{have to}"
+      - "{to have to}"
+      - "{surely}"
+      - "{certainly}"
+      - "{only}"
+    Images:
+      - must1
+      - must2
+      - must3
+
+  - Word: basah
+    Translation: "{to be cut}"
+    Also accepted:
+      - "{sliced}"
+    Images:
+      - cut-stative1
+      - cut-stative2
+      - cut-stative3
+
+  - Word: basleh
+    Translation: "{to cut (someone or something)}"
+    Also accepted:
+      - "{to cut}"
+      - "{to slice}"
+      - "{slice}"
+      - "{to slash}"
+      - "{slash}"
+    Images:
+      - cut-transitive1
+      - cut-transitive2
+      - cut-transitive3
+
+  - Word: essetu' use'
+    Translation: "{squash}"
+    Also accepted:
+      - "{gourd}"
+    Images:
+      - squash1
+      - squash2
+      - squash3
+
+  - Word: palaska'
+    Translation: "{bread}"
+    Also accepted:
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: ápe'
+    Translation: "{salt}"
+    Also accepted:
+      - "{salt}"
+    Images:
+      - salt1
+      - salt2
+      - salt3
+
+  - Word: dakkũ' use'
+    Translation: "{plum}"
+    Also accepted:
+    Images:
+      - plum1
+      - plum2
+      - plum3
+
+Phrases:
+  - Phrase: Paláskayã basleleh pullahũ?
+    Translation: "{Should I cut the bread?}"
+	Also accepted:
+	  - "{Should I cut bread?}"
+
+  - Phrase: Keyuh, paláskayã basah.
+    Translation: "{No, the bread is cut}"
+	Also accepted:
+	  - "{No, the bread is sliced}"
+	  - "{No the bread is cut}"
+	  - "{No the bread is sliced}"
+
+  - Phrase: Essetu' use' katemmahtã eswalhalletcehũ?
+    Translation: "{Which squash are you boiling?}"
+	Also accepted:
+	  - "{Which squash are you boiling}"
+
+  - Phrase: Essetu' use' lákanah walhalleletceh.
+    Translation: "{I am boiling the yellow squash}"
+	Also accepted:
+	  - "{I boil the yellow squash}"
+
+  - Phrase: Nãtahtã esbasleh?
+    Translation: "{What are you cutting?}"
+	Also accepted:
+
+  - Phrase: Dakkũ use' basleleh.
+    Translation: "{I am cutting plums}"
+	Also accepted:
+	  - "{I am cutting a plum}"
+	  - "{I cut plums}"
+	  - "{I cut a plum}"
+
+  - Phrase: Ápe' katemmahtã esápatuk?
+    Translation: "{Which salt did you eat?}"
+	Also accepted:
+
+  - Phrase: Ápe' yammã apáletuk
+    Translation: "{I ate that salt}"
+	Also accepted:
+
+Mini-dictionary:
+  Houma:
+    - pullah:
+      - to have to
+      - have to
+      - surely
+      - must
+      - certainly
+      - only
+    - pullahũ:
+      - must
+      - should
+      - certainly
+      - have to
+    - Keyuh: no
+    - basah:
+      - to be cut
+      - to be sliced
+      - sliced
+    - basleh:
+      - to cut (someone or something)
+      - to slice
+      - slice
+      - to slash
+      - slash
+    - basleleh
+      - I cut
+      - I am cutting
+    - esbasleh
+      - you cut
+      - you are cutting
+    - essetu' use':
+      - squash
+      - gourd
+    - paláska': bread
+    - paláskayã: bread
+    - ápe': salt
+    - dakkũ' use': plum
+    - eswalhalletcehũ: do you boil?
+    - lákanah: yellow
+    - Nãtahtã: What
+    - Katemmahtã: which
+    - esupúnih: you cook
+    - walhalleletceh: I boil
+    - apáletuk: I ate
+    - esápatuk: you ate
+    - yammã: this
+
+  English:
+    - to have to:
+      - pullah
+      - pullahũ
+    - have to:
+      - pullah
+      - pullahũ
+    - surely: pullah
+    - must
+      - pullah
+      - pullahũ
+    - certainly: pullah
+    - only: pullah
+    - should:
+      - pullah
+      - pullahũ
+    - no: keyuh
+    - to be cut: basah
+    - to be sliced: basah
+    - sliced: basah
+    - to cut (someone or something): basleh
+    - to slice: basleh
+    - slice: basleh
+    - to slash: basleh
+    - slash: basleh
+    - I cut: basleleh
+    - I am cutting: basleleh
+    - you cut: esbasleh
+    - you are cutting: esbasleh
+    - squash: essetu' use':
+    - gourd: essetu' use':
+    - paláska': bread
+    - paláskayã: bread
+    - bread:
+      - paláska'
+      - paláskayã
+    - salt: ápe'
+    - plum: dakkũ' use'
+    - do you boil?: eswalhalletcehũ
+    - yellow: lákanah
+    - What: Nãtahtã
+    - Which: Katemmahtã
+    - I boil: walhalleletceh
+    - I ate: apáletuk
+    - you ate: esápatuk
+    - this: yammã
